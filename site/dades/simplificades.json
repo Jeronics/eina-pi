@@ -1471,6 +1471,10 @@
   "text": "Dividir un problema en parts petites i resoldre-les una a una, si cal amb dispositius digitals.",
   "estat": "pendent"
  },
+ "eso.mat.ESO_1-3.4.2": {
+  "text": "Reconèixer patrons i semblances en problemes.",
+  "estat": "pendent"
+ },
  "eso.mat.ESO_1-3.4.3": {
   "text": "Trobar la regla d'un patró i descartar les dades que no serveixen.",
   "estat": "pendent"
@@ -1589,6 +1593,10 @@
  },
  "eso.mat.ESO_4.4.1": {
   "text": "Dividir un problema en parts petites i resoldre-les una a una, si cal amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.4.2": {
+  "text": "Reconèixer patrons i semblances en problemes.",
   "estat": "pendent"
  },
  "eso.mat.ESO_4.4.3": {
@@ -1856,6 +1864,1858 @@
   "estat": "pendent"
  },
  "eso.val.ESO_1-4.4.4": {
+  "text": "Reconèixer situacions d'assetjament i actuar per evitar-les.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.1.1": {
+  "text": "Descobrir obres d'art de diferents èpoques i cultures amb curiositat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.1.2": {
+  "text": "Descriure obres d'art amb interès.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.2.1": {
+  "text": "Buscar obres d'art en grup, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.2.2": {
+  "text": "Trobar semblances i diferències entre obres d'art.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.2.3": {
+  "text": "Expressar què fa sentir una obra d'art, amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.3.1": {
+  "text": "Experimentar amb el cos i amb materials artístics amb confiança.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.3.2": {
+  "text": "Expressar idees i emocions amb creacions pròpies.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.3.3": {
+  "text": "Compartir les creacions pròpies i respectar les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.4.1": {
+  "text": "Participar en un projecte artístic en grup, amb respecte i igualtat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.4.2": {
+  "text": "Participar activament en un projecte artístic fent diferents tasques.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C1.4.3": {
+  "text": "Compartir les creacions del grup i escoltar les opinions dels altres.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.1.1": {
+  "text": "Reconèixer obres d'art de diferents èpoques i cultures amb curiositat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.1.2": {
+  "text": "Descriure obres d'art i trobar-hi semblances.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.2.1": {
+  "text": "Buscar obres d'art sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.2.2": {
+  "text": "Interpretar obres d'art i explicar-ne les tècniques i elements.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.2.3": {
+  "text": "Compartir què fa sentir una obra d'art, amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.3.1": {
+  "text": "Experimentar amb el cos i amb materials artístics amb curiositat i esforç.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.3.2": {
+  "text": "Expressar idees i emocions amb creacions pròpies.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.3.3": {
+  "text": "Guardar i compartir les creacions pròpies i respectar les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.4.1": {
+  "text": "Col·laborar en un projecte artístic en grup, amb respecte i igualtat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.4.2": {
+  "text": "Participar activament en un projecte artístic fent diferents tasques.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C2.4.3": {
+  "text": "Explicar i compartir com s'ha fet una creació en grup i escoltar les opinions dels altres.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.1.1": {
+  "text": "Distingir i valorar obres d'art de diferents èpoques i cultures.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.1.2": {
+  "text": "Analitzar obres d'art, comparar-les i valorar la diversitat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.2.1": {
+  "text": "Buscar obres d'art sol o en grup amb estratègies pròpies.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.2.2": {
+  "text": "Comparar obres d'art i donar-ne una opinió pròpia.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.2.3": {
+  "text": "Valorar i compartir què fa sentir una obra d'art i relacionar-la amb la pròpia cultura.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.3.1": {
+  "text": "Experimentar amb el cos i amb materials artístics amb curiositat i esforç.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.3.2": {
+  "text": "Fer creacions pròpies amb una finalitat, expressant idees i emocions.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.3.3": {
+  "text": "Guardar i compartir les creacions pròpies i respectar les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.4.1": {
+  "text": "Planificar un projecte artístic en grup, amb respecte i igualtat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.4.2": {
+  "text": "Implicar-se en un projecte artístic fent diferents tasques amb responsabilitat.",
+  "estat": "pendent"
+ },
+ "pri.art.PRI_C3.4.3": {
+  "text": "Explicar i compartir com s'ha fet una creació en grup i escoltar les opinions dels altres.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.1.1": {
+  "text": "Reconèixer les llengües de l'entorn, també la llengua de signes, a partir d'expressions de cada dia.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.1.2": {
+  "text": "Detectar i rebutjar, amb ajuda, alguns prejudicis sobre les llengües, el gènere i les cultures.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.1.3": {
+  "text": "Valorar que a l'entorn es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.10.1": {
+  "text": "Rebutjar, amb ajuda del grup, les paraules que discriminen.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.10.2": {
+  "text": "Escoltar els altres i arribar a acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.2.1": {
+  "text": "Treure informació important del que s'escolta a classe.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.2.2": {
+  "text": "Reconèixer, amb ajuda, de què parla un text oral i la idea principal.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.3.1": {
+  "text": "Explicar oralment vivències i fets propers, amb ajuda per preparar-ho.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.3.2": {
+  "text": "Participar en converses de classe respectant el torn i escoltant els altres.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.4.1": {
+  "text": "Llegir textos propers en silenci i en veu alta amb una fluïdesa suficient.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.4.2": {
+  "text": "Entendre textos escrits senzills amb ajuda d'imatges i dibuixos.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.4.3": {
+  "text": "Valorar, amb ajuda, textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.5.1": {
+  "text": "Escriure textos senzills sobre vivències, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.5.2": {
+  "text": "Planificar, escriure i revisar textos amb ajuda, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.6.1": {
+  "text": "Buscar informació sobre temes propers, amb ajuda, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.6.2": {
+  "text": "Explicar els resultats d'un petit treball de recerca fet amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.7.1": {
+  "text": "Llegir textos que agradin, triats amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.7.2": {
+  "text": "Compartir i recomanar lectures als companys.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.8.1": {
+  "text": "Escoltar i llegir contes i poemes i descobrir-ne, amb ajuda, els elements principals.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.8.2": {
+  "text": "Escriure, amb ajuda, textos creatius senzills (contes, poemes).",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.9.1": {
+  "text": "Descobrir l'ordre de les paraules a la frase i la concordança jugant amb les paraules.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C1.9.2": {
+  "text": "Revisar i millorar els propis textos amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.1.1": {
+  "text": "Reconèixer les llengües de l'entorn, també la llengua de signes, i entendre algunes expressions de cada dia.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.1.2": {
+  "text": "Detectar i rebutjar prejudicis sobre les llengües, el gènere i les cultures.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.1.3": {
+  "text": "Valorar que al món es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.10.2": {
+  "text": "Expressar-se amb respecte i buscar acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.2.1": {
+  "text": "Entendre i treure informació important del que s'escolta a classe.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.2.2": {
+  "text": "Reconèixer la idea principal i les secundàries d'un text oral.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.3.1": {
+  "text": "Explicar oralment fets coneguts, amb ajuda per preparar-ho, adaptant el to de veu.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.3.2": {
+  "text": "Participar en converses aportant idees i respectant les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.4.1": {
+  "text": "Llegir textos de la vida diària en silenci i en veu alta amb fluïdesa.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.4.2": {
+  "text": "Entendre textos escrits i distingir la idea principal de les secundàries.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.4.3": {
+  "text": "Valorar, amb ajuda, textos escrits i començar a veure si són fiables.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.5.1": {
+  "text": "Escriure textos propers de manera cada cop més autònoma, amb les normes ortogràfiques més senzilles.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.5.2": {
+  "text": "Planificar, escriure i revisar textos amb pautes, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.6.1": {
+  "text": "Buscar informació en diferents fonts, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i comprovar si la informació és fiable, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.7.1": {
+  "text": "Llegir textos que agradin, triats amb més autonomia.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.7.2": {
+  "text": "Compartir i recomanar lectures explicant per què agraden.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.8.1": {
+  "text": "Escoltar i llegir literatura infantil i relacionar-la amb altres obres, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.8.2": {
+  "text": "Escriure, amb ajuda, textos creatius a partir de models.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.9.1": {
+  "text": "Descobrir regles senzilles de la llengua, sobretot la concordança.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C2.9.2": {
+  "text": "Revisar i millorar els textos propis i dels companys amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.1.1": {
+  "text": "Reconèixer les llengües de l'entorn i alguns trets de les llengües familiars de l'alumnat.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.1.2": {
+  "text": "Detectar i rebutjar prejudicis sobre les llengües, el gènere i les cultures en situacions diverses.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.1.3": {
+  "text": "Explicar i valorar que al món es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.10.2": {
+  "text": "Resoldre conflictes parlant i proposant solucions, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.2.1": {
+  "text": "Entendre i treure informació important de textos orals de diferents mitjans.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.2.2": {
+  "text": "Reconèixer la idea principal i les secundàries d'un text oral i valorar-lo.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.3.1": {
+  "text": "Fer exposicions orals preparades amb claredat, amb suport audiovisual si cal.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.3.2": {
+  "text": "Participar en converses i debats respectant les opinions dels altres.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.4.1": {
+  "text": "Llegir tota mena de textos en silenci i en veu alta amb bona fluïdesa.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.4.2": {
+  "text": "Entendre textos escrits i saber interpretar més enllà del que diuen literalment.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.4.3": {
+  "text": "Valorar, amb ajuda, si un text escrit és fiable i adequat.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.5.1": {
+  "text": "Escriure textos diversos amb ordre i les normes ortogràfiques bàsiques.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.5.2": {
+  "text": "Planificar, escriure i revisar textos de manera autònoma, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.6.1": {
+  "text": "Buscar informació en diferents fonts i valorar-ne el resultat.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca senzill, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i crítica.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.7.1": {
+  "text": "Llegir de manera autònoma textos triats amb criteri propi.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.7.2": {
+  "text": "Compartir i recomanar lectures i valorar-les.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.8.1": {
+  "text": "Llegir textos literaris adequats a l'edat i relacionar-los amb altres obres.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.8.2": {
+  "text": "Escriure textos creatius de manera cada cop més autònoma.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.9.1": {
+  "text": "Descobrir regles bàsiques de la llengua, amb ajuda, buscant exemples.",
+  "estat": "pendent"
+ },
+ "pri.cas.PRI_C3.9.2": {
+  "text": "Revisar i millorar els textos propis i dels companys de manera cada cop més autònoma.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.1.1": {
+  "text": "Reconèixer les llengües de l'entorn, també la llengua de signes, a partir d'expressions de cada dia.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.1.2": {
+  "text": "Detectar i rebutjar, amb ajuda, alguns prejudicis sobre les llengües, el gènere i les cultures.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.1.3": {
+  "text": "Valorar que a l'entorn es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.10.1": {
+  "text": "Rebutjar, amb ajuda del grup, les paraules que discriminen.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.10.2": {
+  "text": "Escoltar els altres i arribar a acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.2.1": {
+  "text": "Treure informació important del que s'escolta a classe.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.2.2": {
+  "text": "Reconèixer, amb ajuda, de què parla un text oral i la idea principal.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.3.1": {
+  "text": "Explicar oralment vivències i fets propers, amb ajuda per preparar-ho.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.3.2": {
+  "text": "Participar en converses de classe respectant el torn i escoltant els altres.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.4.1": {
+  "text": "Llegir textos propers en silenci i en veu alta amb una fluïdesa suficient.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.4.2": {
+  "text": "Entendre textos escrits senzills amb ajuda d'imatges i dibuixos.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.4.3": {
+  "text": "Valorar, amb ajuda, textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.5.1": {
+  "text": "Escriure textos senzills sobre vivències, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.5.2": {
+  "text": "Planificar, escriure i revisar textos amb ajuda, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.6.1": {
+  "text": "Buscar informació sobre temes propers, amb ajuda, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.6.2": {
+  "text": "Explicar els resultats d'un petit treball de recerca fet amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.7.1": {
+  "text": "Llegir textos que agradin, triats amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.7.2": {
+  "text": "Compartir i recomanar lectures als companys.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.8.1": {
+  "text": "Escoltar i llegir contes i poemes i descobrir-ne, amb ajuda, els elements principals.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.8.2": {
+  "text": "Escriure, amb ajuda, textos creatius senzills (contes, poemes).",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.9.1": {
+  "text": "Descobrir l'ordre de les paraules a la frase i la concordança jugant amb les paraules.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C1.9.2": {
+  "text": "Revisar i millorar els propis textos amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.1.1": {
+  "text": "Reconèixer les llengües de l'entorn, també la llengua de signes, i entendre algunes expressions de cada dia.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.1.2": {
+  "text": "Detectar i rebutjar prejudicis sobre les llengües, el gènere i les cultures.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.1.3": {
+  "text": "Valorar que al món es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.10.2": {
+  "text": "Expressar-se amb respecte i buscar acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.2.1": {
+  "text": "Entendre i treure informació important del que s'escolta a classe.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.2.2": {
+  "text": "Reconèixer la idea principal i les secundàries d'un text oral.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.3.1": {
+  "text": "Explicar oralment fets coneguts, amb ajuda per preparar-ho, adaptant el to de veu.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.3.2": {
+  "text": "Participar en converses aportant idees i respectant les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.4.1": {
+  "text": "Llegir textos de la vida diària en silenci i en veu alta amb fluïdesa.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.4.2": {
+  "text": "Entendre textos escrits i distingir la idea principal de les secundàries.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.4.3": {
+  "text": "Valorar, amb ajuda, textos escrits i començar a veure si són fiables.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.5.1": {
+  "text": "Escriure textos propers de manera cada cop més autònoma, amb les normes ortogràfiques més senzilles.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.5.2": {
+  "text": "Planificar, escriure i revisar textos amb pautes, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.6.1": {
+  "text": "Buscar informació en diferents fonts, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i comprovar si la informació és fiable, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.7.1": {
+  "text": "Llegir textos que agradin, triats amb més autonomia.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.7.2": {
+  "text": "Compartir i recomanar lectures explicant per què agraden.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.8.1": {
+  "text": "Escoltar i llegir literatura infantil i relacionar-la amb altres obres, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.8.2": {
+  "text": "Escriure, amb ajuda, textos creatius a partir de models.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.9.1": {
+  "text": "Descobrir regles senzilles de la llengua, sobretot la concordança.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C2.9.2": {
+  "text": "Revisar i millorar els textos propis i dels companys amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.1.1": {
+  "text": "Reconèixer les llengües de l'entorn i alguns trets de les llengües familiars de l'alumnat.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.1.2": {
+  "text": "Detectar i rebutjar prejudicis sobre les llengües, el gènere i les cultures en situacions diverses.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.1.3": {
+  "text": "Explicar i valorar que al món es parlen moltes llengües.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.10.2": {
+  "text": "Resoldre conflictes parlant i proposant solucions, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.2.1": {
+  "text": "Entendre i treure informació important de textos orals de diferents mitjans.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.2.2": {
+  "text": "Reconèixer la idea principal i les secundàries d'un text oral i valorar-lo.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.3.1": {
+  "text": "Fer exposicions orals preparades amb claredat, amb suport audiovisual si cal.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.3.2": {
+  "text": "Participar en converses i debats respectant les opinions dels altres.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.4.1": {
+  "text": "Llegir tota mena de textos en silenci i en veu alta amb bona fluïdesa.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.4.2": {
+  "text": "Entendre textos escrits i saber interpretar més enllà del que diuen literalment.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.4.3": {
+  "text": "Valorar, amb ajuda, si un text escrit és fiable i adequat.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.5.1": {
+  "text": "Escriure textos diversos amb ordre i les normes ortogràfiques bàsiques.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.5.2": {
+  "text": "Planificar, escriure i revisar textos de manera autònoma, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.6.1": {
+  "text": "Buscar informació en diferents fonts i valorar-ne el resultat.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca senzill, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i crítica.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.7.1": {
+  "text": "Llegir de manera autònoma textos triats amb criteri propi.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.7.2": {
+  "text": "Compartir i recomanar lectures i valorar-les.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.8.1": {
+  "text": "Llegir textos literaris adequats a l'edat i relacionar-los amb altres obres.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.8.2": {
+  "text": "Escriure textos creatius de manera cada cop més autònoma.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.9.1": {
+  "text": "Descobrir regles bàsiques de la llengua, amb ajuda, buscant exemples.",
+  "estat": "pendent"
+ },
+ "pri.cat.PRI_C3.9.2": {
+  "text": "Revisar i millorar els textos propis i dels companys de manera cada cop més autònoma.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.1.1": {
+  "text": "Provar maneres diferents de fer activitats físiques, sol o en grup.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.1.2": {
+  "text": "Prendre decisions senzilles en jocs, sol o amb companys.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.1.3": {
+  "text": "Fer servir les pròpies habilitats per moure's i controlar el cos.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.2.1": {
+  "text": "Reconèixer hàbits saludables: moure's, higiene, bona postura, menjar bé, beure aigua i descansar.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.2.2": {
+  "text": "Evitar situacions de risc en l'activitat física.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.3.1": {
+  "text": "Participar en jocs i activitats d'expressió corporal de l'entorn proper.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.3.2": {
+  "text": "Jugar a qualsevol joc sense pensar que és de nens o de nenes.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.3.3": {
+  "text": "Expressar vivències i emocions amb el cos.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.4.1": {
+  "text": "Fer alguna activitat física al barri, al poble o a la natura.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.4.2": {
+  "text": "Respectar l'entorn quan s'hi fa activitat física.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.5.1": {
+  "text": "Reconèixer les pròpies emocions en el joc i controlar-les.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.5.2": {
+  "text": "Respectar les normes de classe, les regles dels jocs i el material.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.5.3": {
+  "text": "Reconèixer que tothom és diferent en l'activitat física.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.5.4": {
+  "text": "Relacionar-se bé amb els companys i començar a resoldre conflictes.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C1.5.5": {
+  "text": "Rebutjar les conductes que perjudiquen la convivència en el joc.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.1.1": {
+  "text": "Fer activitats físiques proposant-se reptes possibles i veient què es pot millorar.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.1.2": {
+  "text": "Prendre decisions en jocs de cooperació i d'oposició.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.1.3": {
+  "text": "Fer servir les habilitats apreses per moure's i controlar millor el cos.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.2.1": {
+  "text": "Tenir hàbits saludables i valorar com ajuden a sentir-se bé.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.2.2": {
+  "text": "Evitar situacions de risc i saber què fer en cas d'accident.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.3.1": {
+  "text": "Participar en jocs i activitats d'expressió corporal d'aquí i d'altres llocs del món.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.3.2": {
+  "text": "Jugar a qualsevol joc sense pensar que és de nens o de nenes i rebutjar la discriminació.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.3.3": {
+  "text": "Expressar vivències i emocions amb el cos de manera més elaborada.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.4.1": {
+  "text": "Fer activitats físiques diverses al barri, al poble o a la natura.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.4.2": {
+  "text": "Cuidar els espais i el material quan es fa activitat física.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.5.1": {
+  "text": "Reconèixer les pròpies emocions i les dels altres i controlar el propi comportament.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.5.2": {
+  "text": "Respectar les normes acordades, les regles dels jocs i el material.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.5.3": {
+  "text": "Valorar les diferències entre les persones com una riquesa.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.5.4": {
+  "text": "Relacionar-se bé amb els companys i resoldre conflictes.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C2.5.5": {
+  "text": "Rebutjar les conductes que perjudiquen la convivència en el joc.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.1.1": {
+  "text": "Fer activitats físiques proposant-se reptes possibles i canviant el pla si cal.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.1.2": {
+  "text": "Prendre decisions en jocs de cooperació i d'oposició, provant estratègies noves.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.1.3": {
+  "text": "Fer servir les habilitats de manera eficaç i creativa per moure's i coordinar-se.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.2.1": {
+  "text": "Tenir hàbits saludables i explicar per què són bons per a la salut.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.2.2": {
+  "text": "Prendre mesures de seguretat i aplicar primers auxilis bàsics.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.3.1": {
+  "text": "Participar en jocs i activitats d'expressió corporal d'aquí i d'altres llocs del món i donar-los a conèixer.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.3.2": {
+  "text": "Jugar a qualsevol joc sense estereotips de gènere i rebutjar la discriminació.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.3.3": {
+  "text": "Expressar vivències i emocions amb el cos de manera creativa.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.4.1": {
+  "text": "Fer activitats físiques diverses al barri, al poble o a la natura i conèixer les possibilitats de cada lloc.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.4.2": {
+  "text": "Cuidar els espais i el material i reduir l'impacte en l'entorn.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.5.1": {
+  "text": "Entendre les emocions pròpies i dels altres, controlar-les i expressar-les amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.5.2": {
+  "text": "Respectar les normes i ajudar a crear-les i millorar-les.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.5.3": {
+  "text": "Valorar les diferències entre les persones i qüestionar els models de cos de la publicitat.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.5.4": {
+  "text": "Resoldre conflictes amb respecte cap a tothom.",
+  "estat": "pendent"
+ },
+ "pri.ef.PRI_C3.5.5": {
+  "text": "Rebutjar les conductes que perjudiquen la convivència en el joc i a la societat.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.1.1": {
+  "text": "Respectar les altres cultures i rebutjar, amb ajuda, els prejudicis més comuns.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.1.2": {
+  "text": "Valorar que hi ha llengües i cultures diferents i reconèixer-ne alguns elements.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.10.1": {
+  "text": "Rebutjar, amb ajuda del grup, les paraules que discriminen.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.10.2": {
+  "text": "Escoltar els altres i arribar a acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.2.1": {
+  "text": "Reconèixer paraules i expressions habituals en textos orals breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.2.2": {
+  "text": "Fer servir, amb ajuda, imatges i gestos per entendre la idea general d'un text oral.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.3.1": {
+  "text": "Dir frases curtes sobre temes quotidians seguint un model, amb bona pronúncia.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.3.2": {
+  "text": "Fer servir, amb ajuda, recursos per dir missatges breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.3.3": {
+  "text": "Participar, amb ajuda, en converses molt senzilles preparades abans.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.3.4": {
+  "text": "Saludar, acomiadar-se, presentar-se i fer i respondre preguntes molt senzilles, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.4.1": {
+  "text": "Reconèixer paraules i expressions habituals en textos escrits breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.4.2": {
+  "text": "Fer servir, amb ajuda, imatges i pistes per entendre la idea general d'un text escrit.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.5.1": {
+  "text": "Escriure paraules i frases conegudes seguint un model.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.5.2": {
+  "text": "Fer servir, amb ajuda, recursos per dir missatges breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.6.1": {
+  "text": "Buscar informació sobre temes propers, amb ajuda, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.6.2": {
+  "text": "Explicar els resultats d'un petit treball de recerca fet amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.7.1": {
+  "text": "Llegir textos que agradin, triats amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.7.2": {
+  "text": "Compartir i recomanar lectures als companys.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.8.1": {
+  "text": "Explicar, amb ajuda, informació molt senzilla a altres persones per entendre's.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.9.1": {
+  "text": "Comparar, amb ajuda, la llengua estrangera amb les llengües que es coneixen.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.9.2": {
+  "text": "Fer servir, amb ajuda, el que se sap d'altres llengües per aprendre la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C1.9.3": {
+  "text": "Reconèixer, amb ajuda, què s'ha après i què costa.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.1.1": {
+  "text": "Respectar les altres cultures, comparar llengües i rebutjar els prejudicis.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.1.2": {
+  "text": "Valorar la cultura dels països on es parla la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.1.3": {
+  "text": "Fer servir, amb ajuda, estratègies senzilles per entendre la diversitat de llengües i cultures.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.10.2": {
+  "text": "Expressar-se amb respecte i buscar acords, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.2.1": {
+  "text": "Entendre paraules, frases i la idea general de textos orals breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.2.2": {
+  "text": "Fer servir, amb ajuda, estratègies per entendre la idea general de textos orals senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.3.1": {
+  "text": "Dir frases curtes sobre temes quotidians, amb bona pronúncia.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.3.2": {
+  "text": "Fer servir, amb ajuda, recursos per dir missatges breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.3.3": {
+  "text": "Participar en converses breus i senzilles preparades abans, amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.3.4": {
+  "text": "Saludar, acomiadar-se, presentar-se i fer i respondre preguntes senzilles, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.4.1": {
+  "text": "Entendre la idea general i algunes paraules i frases de textos escrits breus, també contes.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.4.2": {
+  "text": "Fer servir, amb ajuda, estratègies per entendre textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.5.1": {
+  "text": "Escriure textos breus i senzills sobre temes quotidians seguint un model.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.5.2": {
+  "text": "Fer servir, amb ajuda, recursos per dir missatges breus i senzills.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.6.1": {
+  "text": "Buscar informació en diferents fonts, a internet i a la biblioteca.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i comprovar si la informació és fiable, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.7.1": {
+  "text": "Llegir textos que agradin, triats amb més autonomia.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.7.2": {
+  "text": "Compartir i recomanar lectures explicant per què agraden.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.8.1": {
+  "text": "Explicar, amb ajuda, missatges senzills a altres persones per entendre's.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.8.2": {
+  "text": "Fer servir, amb ajuda, estratègies per facilitar la comunicació (gestos, imatges, paraules clau).",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.9.1": {
+  "text": "Comparar, amb ajuda, la llengua estrangera amb les llengües que es coneixen.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.9.2": {
+  "text": "Fer servir, amb ajuda, el que se sap d'altres llengües per aprendre la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C2.9.3": {
+  "text": "Reconèixer, amb ajuda, què s'ha après i què costa, i participar en l'autoavaluació.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.1.1": {
+  "text": "Respectar les altres llengües i cultures i rebutjar els prejudicis.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.1.2": {
+  "text": "Valorar la cultura dels països on es parla la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.1.3": {
+  "text": "Fer servir, amb ajuda, estratègies senzilles per entendre la diversitat de llengües i cultures.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.10.1": {
+  "text": "Rebutjar les paraules que discriminen o que fan mal.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.10.2": {
+  "text": "Resoldre conflictes parlant i proposant solucions, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.2.1": {
+  "text": "Entendre la idea general i frases concretes de textos orals breus i senzills, també contes.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.2.2": {
+  "text": "Fer servir, amb ajuda, estratègies per entendre la idea general de textos orals diversos.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.3.1": {
+  "text": "Explicar oralment textos breus i senzills preparats abans.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.3.2": {
+  "text": "Preparar i fer textos senzills, amb ajuda i amb recursos físics o digitals.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.3.3": {
+  "text": "Participar en converses breus i senzilles sobre temes quotidians, amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.3.4": {
+  "text": "Saludar, presentar-se, fer i respondre preguntes i començar i acabar una conversa, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.4.1": {
+  "text": "Entendre la idea general i frases concretes de textos escrits breus, també literaris.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.4.2": {
+  "text": "Fer servir, amb ajuda, estratègies per entendre textos escrits diversos.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.5.1": {
+  "text": "Escriure textos breus i senzills sobre temes quotidians, preparats abans.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.5.2": {
+  "text": "Preparar i escriure textos senzills, amb ajuda i amb recursos físics o digitals.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.6.1": {
+  "text": "Buscar informació en diferents fonts i valorar-ne el resultat.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.6.2": {
+  "text": "Explicar de manera creativa els resultats d'un treball de recerca senzill, sense copiar.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i crítica.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.7.1": {
+  "text": "Llegir de manera autònoma textos triats amb criteri propi.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.7.2": {
+  "text": "Compartir i recomanar lectures i valorar-les.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.8.1": {
+  "text": "Explicar missatges senzills a altres persones i ajudar a resoldre malentesos, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.8.2": {
+  "text": "Fer servir, amb ajuda, estratègies per facilitar la comunicació (gestos, imatges, paraules clau).",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.9.1": {
+  "text": "Comparar la llengua estrangera amb les llengües que es coneixen.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.9.2": {
+  "text": "Fer servir el que se sap d'altres llengües per aprendre la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "pri.est.PRI_C3.9.3": {
+  "text": "Reconèixer què s'ha après i què costa, i participar en l'autoavaluació.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.1.1": {
+  "text": "Començar a entendre què diu i què pregunta un problema senzill.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.1.2": {
+  "text": "Representar un problema amb material, dibuixos o eines digitals per resoldre'l.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.2.1": {
+  "text": "Resoldre un problema a la pròpia manera i explicar com s'ha fet.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.2.2": {
+  "text": "Buscar maneres diferents de resoldre un mateix problema i compartir-les.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.2.3": {
+  "text": "Comprovar que la solució respon la pregunta del problema.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.3.1": {
+  "text": "Descobrir patrons i regularitats senzilles i comprovar-los, amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.3.2": {
+  "text": "Inventar problemes senzills i explicar com es resolen.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.3.3": {
+  "text": "Fer servir la vista i el raonament per orientar-se en l'espai.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.4.1": {
+  "text": "Explicar pas a pas rutines senzilles de l'aula i de casa.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.4.2": {
+  "text": "Dividir un problema en parts petites i resoldre-les una a una.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.4.3": {
+  "text": "Reconèixer patrons i semblances en problemes.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.4.4": {
+  "text": "Explicar els passos per resoldre un problema i provar-los, amb o sense ordinador.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.5.1": {
+  "text": "Relacionar continguts matemàtics diferents.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.5.2": {
+  "text": "Reconèixer les matemàtiques a la vida diària i a altres àrees.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.6.1": {
+  "text": "Reconèixer i entendre paraules i símbols matemàtics de la vida diària.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.6.2": {
+  "text": "Explicar oralment, amb gestos o dibuixos, com s'ha resolt un problema.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.7.1": {
+  "text": "Reconèixer les pròpies emocions davant d'un repte i intentar-ho abans de demanar ajuda.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.7.2": {
+  "text": "Tenir una actitud positiva davant els reptes i veure l'error com una manera d'aprendre.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C1.8.1": {
+  "text": "Treballar en equip escoltant els companys.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.1.1": {
+  "text": "Entendre què diu i què pregunta un problema de la vida diària.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.1.2": {
+  "text": "Representar un problema amb material, dibuixos o eines digitals per resoldre'l.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.2.1": {
+  "text": "Resoldre un problema de maneres diferents i explicar com s'ha fet.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.2.2": {
+  "text": "Buscar maneres diferents de resoldre un mateix problema i compartir-les.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.2.3": {
+  "text": "Comprovar que la solució d'un problema és correcta i té sentit.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.3.1": {
+  "text": "Proposar idees senzilles sobre patrons i comprovar-les.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.3.2": {
+  "text": "Inventar problemes i explicar com es resolen.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.3.3": {
+  "text": "Fer servir la vista i el raonament per orientar-se en l'espai.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.4.1": {
+  "text": "Explicar pas a pas rutines senzilles de l'aula i de casa.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.4.2": {
+  "text": "Dividir un problema en parts petites i resoldre-les una a una.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.4.3": {
+  "text": "Reconèixer patrons i semblances en problemes.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.4.4": {
+  "text": "Escriure els passos per resoldre un problema i provar-los, amb o sense ordinador.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.5.1": {
+  "text": "Relacionar continguts matemàtics diferents i veure per a què serveixen.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.5.2": {
+  "text": "Reconèixer i fer servir les matemàtiques a la vida diària.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.6.1": {
+  "text": "Reconèixer i fer servir paraules i símbols matemàtics de l'entorn.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.6.2": {
+  "text": "Explicar oralment, amb dibuixos o eines digitals, com s'ha resolt un problema.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.7.1": {
+  "text": "Reconèixer les pròpies emocions davant d'un repte i demanar ajuda clarament si cal.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.7.2": {
+  "text": "Esforçar-se davant dels reptes i veure l'error com una manera d'aprendre.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.8.1": {
+  "text": "Treballar en equip assumint responsabilitats.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C2.8.2": {
+  "text": "Compartir idees amb el grup i escoltar les dels altres amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.1.1": {
+  "text": "Explicar amb paraules pròpies o amb un dibuix un problema i respondre'n les preguntes.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.1.2": {
+  "text": "Representar un problema de manera útil amb material, dibuixos o eines digitals.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.2.1": {
+  "text": "Triar una manera de resoldre un problema i explicar per què.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.2.2": {
+  "text": "Compartir solucions i triar-ne una explicant per què.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.2.3": {
+  "text": "Explicar per què la solució d'un problema és correcta i té sentit.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.3.1": {
+  "text": "Analitzar idees senzilles sobre patrons i comprovar-les.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.3.2": {
+  "text": "Inventar problemes i explicar com es resolen, donant raons.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.3.3": {
+  "text": "Fer servir la vista i el raonament per orientar-se en l'espai.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.4.1": {
+  "text": "Dividir un problema en parts petites i resoldre-les una a una, també amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.4.2": {
+  "text": "Reconèixer patrons i semblances en problemes.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.4.3": {
+  "text": "Trobar la regla d'un patró i descartar les dades que no serveixen.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.4.4": {
+  "text": "Escriure els passos per resoldre un problema i provar-los amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.5.1": {
+  "text": "Relacionar continguts matemàtics diferents i veure per a què serveixen.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.5.2": {
+  "text": "Fer servir les matemàtiques en altres àrees i en situacions de la vida diària.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.6.1": {
+  "text": "Entendre i fer servir el vocabulari matemàtic adequat.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.6.2": {
+  "text": "Representar idees i resultats matemàtics amb diferents eines, també digitals.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.6.3": {
+  "text": "Explicar oralment, amb dibuixos o eines digitals, com s'ha resolt un problema i per què.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.7.1": {
+  "text": "Controlar les emocions i tenir confiança davant dels reptes matemàtics.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.7.2": {
+  "text": "No rendir-se davant dels reptes i veure l'error com una manera d'aprendre.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.8.1": {
+  "text": "Aportar idees i estratègies en el treball en equip.",
+  "estat": "pendent"
+ },
+ "pri.mat.PRI_C3.8.2": {
+  "text": "Respectar les necessitats dels altres i valorar les seves aportacions per aprendre junts.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.1.1": {
+  "text": "Buscar informació a internet amb ajuda i de manera responsable.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.1.2": {
+  "text": "Fer servir dispositius digitals per comunicar-se i explicar el que s'ha après.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.1.3": {
+  "text": "Crear, amb ajuda, continguts digitals senzills.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.10.1": {
+  "text": "Reconèixer institucions properes (ajuntament, escola) i què fan per la convivència.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.10.2": {
+  "text": "Conèixer els propis drets i deures.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.2.1": {
+  "text": "Mostrar curiositat i fer preguntes i prediccions sobre objectes i fenòmens.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.2.2": {
+  "text": "Buscar informació en fonts segures triades amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.2.3": {
+  "text": "Fer experiments senzills amb ajuda i anotar el que s'observa.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.2.4": {
+  "text": "Comparar els resultats amb el que s'havia previst.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.2.5": {
+  "text": "Explicar oralment o amb dibuixos què s'ha investigat, amb ajuda d'un guió.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.3.1": {
+  "text": "Detectar un problema proper i participar, amb ajuda, en un projecte en grup per resoldre'l.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.3.2": {
+  "text": "Aportar idees per resoldre un problema i explicar-les.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.3.3": {
+  "text": "Construir en equip un producte senzill que resolgui el problema, amb el material adequat.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.3.4": {
+  "text": "Presentar el producte final i explicar com s'ha fet, amb ajuda d'un guió.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.4.1": {
+  "text": "Tenir hàbits saludables: higiene, alimentació variada, exercici i descans.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.4.2": {
+  "text": "Prendre decisions senzilles sobre alimentació, higiene i salut.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.4.3": {
+  "text": "Reconèixer les pròpies emocions i les dels altres i tractar els altres amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.5.1": {
+  "text": "Reconèixer com són els elements del medi natural i social, observant i investigant amb ajuda.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.5.2": {
+  "text": "Reconèixer relacions senzilles entre elements del medi.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.5.3": {
+  "text": "Respectar el patrimoni natural i cultural.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.6.1": {
+  "text": "Reconèixer com les persones fan servir els recursos de l'entorn.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.6.2": {
+  "text": "Participar en activitats per cuidar el planeta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.6.3": {
+  "text": "Tenir actituds de respecte i cura del planeta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.7.1": {
+  "text": "Situar en el temps fets propers fent servir abans, ara i després.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.7.2": {
+  "text": "Observar què canvia i què es manté en l'entorn proper amb el pas del temps.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.7.3": {
+  "text": "Mostrar curiositat per com vivien les persones en altres temps.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.8.1": {
+  "text": "Mostrar actituds d'igualtat entre nens i nenes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.8.2": {
+  "text": "Promoure la igualtat entre nens i nenes a l'entorn proper.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.8.3": {
+  "text": "Reconèixer la diversitat cultural tenint en compte el paper d'homes i dones.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.9.1": {
+  "text": "Participar a l'escola amb responsabilitat i amb un llenguatge respectuós.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.9.2": {
+  "text": "Respectar les persones i valorar la diversitat.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C1.9.3": {
+  "text": "Conèixer les normes bàsiques de circulació com a vianant i passatger.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.1.1": {
+  "text": "Buscar informació a internet de manera responsable.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.1.2": {
+  "text": "Fer servir dispositius digitals per comunicar-se i explicar el que s'ha après.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.1.3": {
+  "text": "Crear continguts digitals senzills.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.10.1": {
+  "text": "Conèixer com funciona l'ajuntament i com hi poden participar els ciutadans.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.10.2": {
+  "text": "Defensar els drets propis i dels altres.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.2.1": {
+  "text": "Fer preguntes que es puguin investigar i prediccions raonades.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.2.2": {
+  "text": "Buscar i triar informació en fonts segures i fiables.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.2.3": {
+  "text": "Fer experiments senzills, mesurar i anotar els resultats.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.2.4": {
+  "text": "Comparar els resultats amb el que s'havia previst i proposar respostes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.2.5": {
+  "text": "Presentar els resultats d'una investigació, també amb eines digitals.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.3.1": {
+  "text": "Detectar un problema proper i proposar-se objectius per resoldre'l.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.3.2": {
+  "text": "Proposar solucions a un problema i explicar-les.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.3.3": {
+  "text": "Construir en equip un producte senzill que resolgui el problema, amb seguretat.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.3.4": {
+  "text": "Presentar els resultats i explicar per què el producte funciona.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.4.1": {
+  "text": "Tenir de manera autònoma hàbits saludables: higiene, alimentació, exercici i descans.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.4.2": {
+  "text": "Prendre decisions sobre alimentació, higiene i salut per prevenir malalties.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.4.3": {
+  "text": "Reconèixer les emocions pròpies i dels altres i tenir relacions sanes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.5.1": {
+  "text": "Identificar com són els elements del medi natural i social, observant i investigant.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.5.2": {
+  "text": "Reconèixer relacions entre elements del medi i pensar què pot passar.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.5.3": {
+  "text": "Valorar i protegir el patrimoni natural i cultural.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.6.1": {
+  "text": "Identificar com les persones afecten el planeta i proposar solucions properes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.6.2": {
+  "text": "Participar en accions en grup per cuidar el planeta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.6.3": {
+  "text": "Tenir hàbits sostenibles i de cura de les persones i del planeta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.7.1": {
+  "text": "Situar en el temps fets de l'entorn i relacionar el passat amb el present.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.7.2": {
+  "text": "Explicar els canvis del medi en diferents moments de la història.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.7.3": {
+  "text": "Conèixer com eren les societats al llarg del temps.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.8.1": {
+  "text": "Promoure la igualtat de gènere i rebutjar les conductes sexistes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.8.2": {
+  "text": "Fer accions per la igualtat de gènere i reconèixer dones i homes que són un bon exemple.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.8.3": {
+  "text": "Valorar la diversitat cultural i les persones que l'han creat, homes i dones.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.9.1": {
+  "text": "Participar a l'escola assumint responsabilitats i arribant a acords parlant.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.9.2": {
+  "text": "Valorar la diversitat de les persones i entendre per què les persones migren.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C2.9.3": {
+  "text": "Prendre decisions responsables com a vianant i passatger, coneixent els senyals de trànsit.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.1.1": {
+  "text": "Buscar informació a internet i comprovar si la font és fiable.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.1.2": {
+  "text": "Fer servir dispositius digitals per organitzar i comunicar la informació.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.1.3": {
+  "text": "Crear continguts digitals triant les eines adequades.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.1.4": {
+  "text": "Participar en treballs en grup fent servir eines digitals.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.10.1": {
+  "text": "Conèixer com funcionen el govern de Catalunya, de l'Estat i de la Unió Europea.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.10.2": {
+  "text": "Defensar els drets propis i dels altres i reaccionar davant les conductes injustes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.2.1": {
+  "text": "Fer preguntes que es puguin investigar i prediccions sobre temes d'actualitat.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.2.2": {
+  "text": "Buscar, triar i comparar informació de fonts fiables.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.2.3": {
+  "text": "Planificar i fer experiments, triant els instruments i com anotar els resultats.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.2.4": {
+  "text": "Analitzar els resultats d'una investigació i veure si les respostes tenen sentit.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.2.5": {
+  "text": "Presentar els resultats d'una investigació de manera clara, adaptada a qui l'escolta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.3.1": {
+  "text": "Analitzar les necessitats de l'entorn i proposar-se objectius per resoldre-les.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.3.2": {
+  "text": "Planificar en equip la solució a un problema, amb els recursos i els passos necessaris.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.3.3": {
+  "text": "Construir en equip un producte que resolgui el problema, amb seguretat i responsabilitat.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.3.4": {
+  "text": "Presentar els resultats, explicar per què el producte funciona i proposar millores.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.4.1": {
+  "text": "Proposar millores en els hàbits saludables propis i del grup.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.4.2": {
+  "text": "Prendre decisions sobre alimentació, higiene i salut amb criteris científics.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.4.3": {
+  "text": "Cuidar el benestar emocional, també en l'ús de la tecnologia i el temps lliure.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.5.1": {
+  "text": "Identificar i analitzar com són els elements del medi natural i social, investigant.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.5.2": {
+  "text": "Explicar relacions entre elements del medi i predir què pot passar.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.5.3": {
+  "text": "Proposar accions per protegir el patrimoni natural i cultural.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.6.1": {
+  "text": "Analitzar com les persones afecten el planeta i donar opinions per resoldre problemes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.6.2": {
+  "text": "Proposar en grup activitats per cuidar el planeta.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.6.3": {
+  "text": "Participar en una convivència basada en la cooperació i la cura de l'entorn.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.7.1": {
+  "text": "Situar en el temps fets importants i relacionar el passat amb el present i el futur.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.7.2": {
+  "text": "Analitzar els canvis al llarg de la història i les seves causes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.7.3": {
+  "text": "Relacionar les èpoques de la història amb els fets més importants.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.8.1": {
+  "text": "Defensar la igualtat de gènere i rebutjar les conductes sexistes.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.8.2": {
+  "text": "Actuar per la igualtat de les persones i rebutjar els estereotips.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.8.3": {
+  "text": "Valorar les manifestacions culturals i relacionar-les amb qui les ha creat i la seva època.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.9.1": {
+  "text": "Participar a l'escola i a l'entorn, assumint responsabilitats i proposant millores.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.9.2": {
+  "text": "Conèixer la història i la geografia que expliquen la societat actual i respectar les minories.",
+  "estat": "pendent"
+ },
+ "pri.medi.PRI_C3.9.3": {
+  "text": "Desplaçar-se de manera segura i ajudar els altres a fer-ho.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.1.1": {
+  "text": "Reconèixer les pròpies capacitats, els punts forts i els punts febles.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.1.2": {
+  "text": "Reconèixer trets propis que ajuden a ser més autònom.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.1.3": {
+  "text": "Pensar de manera crítica sobre la informació de l'entorn.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.1.4": {
+  "text": "Actuar segons els propis valors, respectant els altres.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.1.5": {
+  "text": "Fer un ús responsable de les xarxes socials i prevenir el ciberassetjament.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.2.1": {
+  "text": "Investigar com vivim junts en una societat democràtica.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.2.2": {
+  "text": "Relacionar-se amb els altres amb respecte i empatia.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.2.3": {
+  "text": "Tenir actituds de justícia, pau, solidaritat i respecte per la diversitat.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.2.4": {
+  "text": "Conèixer què fan les institucions i les ONG per la pau i la solidaritat.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.2.5": {
+  "text": "Defensar la igualtat de gènere i rebutjar la violència i la discriminació.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.3.1": {
+  "text": "Proposar accions per frenar el canvi climàtic a l'entorn proper.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.3.2": {
+  "text": "Participar en accions per cuidar el planeta i la societat.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.3.3": {
+  "text": "Cuidar les persones, els animals i el planeta amb accions de cada dia (aigua, energia, residus).",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.4.1": {
+  "text": "Expressar les pròpies emocions amb respecte.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.4.2": {
+  "text": "Reconèixer i controlar les pròpies emocions i entendre les dels altres.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.4.3": {
+  "text": "Ser empàtic i respectuós amb un mateix, amb els altres i amb la natura.",
+  "estat": "pendent"
+ },
+ "pri.val.PRI_C3.4.4": {
   "text": "Reconèixer situacions d'assetjament i actuar per evitar-les.",
   "estat": "pendent"
  }
