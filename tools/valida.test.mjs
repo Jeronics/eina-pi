@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { validaCurriculum, validaSimplificades, validaMapatge } from './valida.mjs';
 
 const BLOCS = {
+  'ESO_1-2': 'ESO (1r i 2n)', 'ESO_3-4': 'ESO (3r i 4t)', 'ESO_1-4': 'ESO (1r, 2n, 3r o 4t)',
   'ESO_1-3': 'ESO (1r, 2n i 3r)', 'ESO_4': 'ESO (4t)',
   'PRI_C1': 'Primària, cicle inicial (1r i 2n)', 'PRI_C2': 'Primària, cicle mitjà (3r i 4t)',
   'PRI_C3': 'Primària, cicle superior (5è i 6è)',
@@ -16,10 +17,10 @@ function curriculum() {
   return {
     blocs: BLOCS,
     materies: [
-      { id: 'eso.mat', etapa: 'ESO', nom: 'Matemàtiques',
+      { id: 'eso.mat', etapa: 'ESO', nom: 'Matemàtiques', blocs: ['ESO_1-3', 'ESO_4'],
         ces: [{ id: 'eso.mat.CE1', codi: 'CE1', text: 'Interpretar situacions.' }],
         criteris: [crit('eso.mat', 'ESO_1-3', 1), crit('eso.mat', 'ESO_4', 1)] },
-      { id: 'pri.mat', etapa: 'Primària', nom: 'Matemàtiques',
+      { id: 'pri.mat', etapa: 'Primària', nom: 'Matemàtiques', blocs: ['PRI_C1', 'PRI_C2', 'PRI_C3'],
         ces: [{ id: 'pri.mat.CE1', codi: 'CE1', text: 'Traduir problemes.' }],
         criteris: ['PRI_C1', 'PRI_C2', 'PRI_C3'].map(b => crit('pri.mat', b, 1)) },
     ],
@@ -73,6 +74,18 @@ for (const partit of ['Comprendre textos i compren-', 'Saber compren- dre textos
   });
 }
 
+test('criteri d\'un bloc que la matèria no declara', () => {
+  const c = curriculum();
+  c.materies[0].criteris[0].bloc = 'ESO_1-2';
+  assert.ok(validaCurriculum(c).some(x => x.includes('eso.mat.ESO_1-3.1.1') && x.includes('ESO_1-2')));
+});
+
+test('matèria sense cap bloc', () => {
+  const c = curriculum();
+  c.materies[0].blocs = [];
+  assert.ok(validaCurriculum(c).some(x => x.includes('eso.mat') && x.includes('cap bloc')));
+});
+
 test('matèria ESO sense bloc 4t', () => {
   const c = curriculum();
   c.materies[0].criteris = c.materies[0].criteris.filter(x => x.bloc !== 'ESO_4');
@@ -117,4 +130,23 @@ test('mapatge correcte', () => {
 
 test('mapatge cap a matèria inexistent', () => {
   assert.ok(validaMapatge({ 'eso.mat': 'pri.medi' }, curriculum()).some(x => x.includes('pri.medi')));
+});
+
+test('paraules correctes amb accent no són lletres perdudes', () => {
+  const c = curriculum();
+  c.materies[0].ces[0].text = 'Identificar les matemàtiques implicades en altres àrees, en l’àmbit audiovisual i natural.';
+  assert.deepEqual(validaCurriculum(c), []);
+});
+
+test('CE sense cap criteri', () => {
+  const c = curriculum();
+  c.materies[0].ces.push({ id: 'eso.mat.CE2', codi: 'CE2', text: 'Argumentar solucions.' });
+  assert.ok(validaCurriculum(c).some(x => x.includes('eso.mat.CE2') && x.includes('cap criteri')));
+});
+
+test('numeració de CE amb forats', () => {
+  const c = curriculum();
+  c.materies[0].ces[0] = { id: 'eso.mat.CE2', codi: 'CE2', text: 'Argumentar solucions.' };
+  c.materies[0].criteris.forEach(cr => { cr.ce = 'eso.mat.CE2'; cr.codi = 'CE2.1'; });
+  assert.ok(validaCurriculum(c).some(x => x.includes('eso.mat') && x.includes('CE1')));
 });

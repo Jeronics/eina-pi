@@ -2,13 +2,10 @@
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
-const BLOCS_ESO = ['ESO_1-3', 'ESO_4'];
-const BLOCS_PRI = ['PRI_C1', 'PRI_C2', 'PRI_C3'];
-
 const BROSSA = [/ISSN/, /CVE-DOGC/, /Núm\. 8762/, /Diari Oficial/, /https?:\/\/www\.gencat\.cat/];
 
 // Tokens que apareixen quan el PDF perd glifs (V, N, ò, À...).
-const MUTILATS = [/\bisual\b/, /\bAudio isual\b/, /\batural\b/, /obligat ria/, /\brees\b/];
+const MUTILATS = [/(?<!\p{L})isual(?!\p{L})/u, /(?<!\p{L})atural(?!\p{L})/u, /obligat ria/u, /(?<!\p{L})rees(?!\p{L})/u];
 
 function problemesText(text, on) {
   const errors = [];
@@ -28,10 +25,19 @@ export function validaCurriculum(c) {
     for (const cr of m.criteris) {
       if (!ces.has(cr.ce)) errors.push(`${cr.id}: la CE ${cr.ce} no existeix`);
       if (!(cr.bloc in c.blocs)) errors.push(`${cr.id}: bloc desconegut ${cr.bloc}`);
+      else if (!m.blocs.includes(cr.bloc)) errors.push(`${cr.id}: la matèria no declara el bloc ${cr.bloc}`);
       errors.push(...problemesText(cr.text, cr.id));
     }
+    const usades = new Set(m.criteris.map(cr => cr.ce));
+    for (const ce of m.ces) {
+      if (!usades.has(ce.id)) errors.push(`${ce.id}: no té cap criteri`);
+    }
+    m.ces.forEach((ce, i) => {
+      if (ce.codi !== `CE${i + 1}`) errors.push(`${m.id}: s'esperava CE${i + 1} i hi ha ${ce.codi}`);
+    });
+    if (!m.blocs?.length) errors.push(`${m.id}: no declara cap bloc`);
     const blocs = new Set(m.criteris.map(cr => cr.bloc));
-    for (const b of m.etapa === 'ESO' ? BLOCS_ESO : BLOCS_PRI) {
+    for (const b of m.blocs ?? []) {
       if (!blocs.has(b)) errors.push(`${m.id}: no té criteris del bloc ${b}`);
     }
   }
