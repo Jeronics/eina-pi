@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Eina PI",
+  "version": "1.0.0",
+  "description": "Obre l'Eina PI al panell lateral per copiar competències i criteris al Pla de suport individualitzat.",
+  "permissions": ["sidePanel"],
+  "side_panel": { "default_path": "panel.html" },
+  "action": { "default_title": "Obre l'Eina PI", "default_icon": { "128": "icona-128.png" } },
+  "icons": { "128": "icona-128.png" },
+  "background": { "service_worker": "service-worker.js" }
+}
