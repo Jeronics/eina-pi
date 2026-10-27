@@ -49,8 +49,16 @@ export function marcaBloc(sel, materiaId, bloc, marcat) {
   return canvia(sel, Object.keys(sel.items).filter(id => id.startsWith(prefix)), () => ({ marcat }));
 }
 
+// Amb versio 'lliure' i sense textLliure, es conserva el text lliure que ja hi hagués.
 export function posaVersio(sel, criteriId, versio, textLliure) {
-  return canvia(sel, [criteriId], () => (versio === 'lliure' ? { versio, textLliure } : { versio }));
+  return canvia(sel, [criteriId], it => (versio === 'lliure'
+    ? { versio, textLliure: textLliure ?? it.textLliure }
+    : { versio }));
+}
+
+// Cert si la selecció ja no és la que surt per defecte per a aquesta matèria i curs.
+export function esModificada(sel, curriculum, materiaId, curs) {
+  return JSON.stringify(sel) !== JSON.stringify(novaSeleccio(curriculum, materiaId, curs));
 }
 
 // Canvia oficial/simplificada a tots els criteris, excepte els que tenen text lliure.

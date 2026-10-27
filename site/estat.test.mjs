@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   blocPerCurs, areaPrimaria, novaSeleccio, afegeixBloc, treuBloc, commuta, marcaBloc,
-  posaVersio, posaVersioTots, criterisMarcats,
+  posaVersio, posaVersioTots, criterisMarcats, esModificada,
 } from './estat.js';
 
 const cr = (m, bloc, ce, n) => ({ id: `${m}.${bloc}.${ce}.${n}`, ce: `${m}.CE${ce}`, codi: `CE${ce}.${n}`, bloc, text: `Oficial ${m} ${bloc} ${ce}.${n}.` });
@@ -127,4 +127,21 @@ test('ordre: ESO abans que primària encara que primària s\'afegeixi primer', (
   const m = ids(criterisMarcats(s, C, {}));
   assert.equal(m[0], 'eso.mat.ESO_1-3.1.1');
   assert.equal(m.at(-1), 'pri.mat.PRI_C3.1.2');
+});
+
+test('tornar a triar text lliure sense text nou conserva el que ja s\'havia escrit', () => {
+  let s = posaVersio(novaSeleccio(C, 'eso.mat', 3), 'eso.mat.ESO_1-3.1.1', 'lliure', 'El meu text.');
+  s = posaVersio(s, 'eso.mat.ESO_1-3.1.1', 'lliure');
+  assert.equal(criterisMarcats(s, C, SIMPL)[0].text, 'El meu text.');
+});
+
+test('esModificada: una selecció nova no ho és', () => {
+  assert.equal(esModificada(novaSeleccio(C, 'eso.mat', 3), C, 'eso.mat', 3), false);
+});
+
+test('esModificada: desmarcar, canviar versió o afegir bloc sí que ho és', () => {
+  const s = novaSeleccio(C, 'eso.mat', 3);
+  assert.equal(esModificada(commuta(s, 'eso.mat.ESO_1-3.1.1'), C, 'eso.mat', 3), true);
+  assert.equal(esModificada(posaVersio(s, 'eso.mat.ESO_1-3.1.1', 'simplificada'), C, 'eso.mat', 3), true);
+  assert.equal(esModificada(afegeixBloc(s, C, 'pri.mat', 'PRI_C3'), C, 'eso.mat', 3), true);
 });

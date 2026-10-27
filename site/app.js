@@ -1,7 +1,7 @@
 // Interfície de l'eina PI: carrega les dades, pinta la selecció i gestiona els botons de còpia.
 import {
   areaPrimaria, novaSeleccio, afegeixBloc, treuBloc, commuta, marcaBloc,
-  posaVersio, posaVersioTots, criterisMarcats,
+  posaVersio, posaVersioTots, criterisMarcats, esModificada,
 } from './estat.js';
 import { textCE, textCriteris, textEtapa } from './format.js';
 import { copia } from './copia.js';
@@ -10,7 +10,7 @@ const BLOCS_PRIMARIA = ['PRI_C1', 'PRI_C2', 'PRI_C3'];
 const $ = id => document.getElementById(id);
 
 let curriculum, simplificades, mapatge;
-let materiaId, sel;
+let materiaId, curs, sel;
 
 function h(tag, atributs = {}, ...fills) {
   const el = document.createElement(tag);
@@ -40,8 +40,8 @@ function inicia() {
   for (const m of curriculum.materies.filter(m => m.etapa === 'ESO')) {
     select.append(h('option', { value: m.id }, m.nom));
   }
-  select.addEventListener('change', reinicia);
-  $('curs').addEventListener('change', reinicia);
+  select.addEventListener('change', canviaContext);
+  $('curs').addEventListener('change', canviaContext);
   $('nou-bloc').addEventListener('change', mostraArea);
   $('afegeix').addEventListener('click', afegeix);
   for (const b of document.querySelectorAll('[data-versio-global]')) {
@@ -53,9 +53,21 @@ function inicia() {
   reinicia();
 }
 
+// Canviar de matèria o de curs torna a començar: si hi havia feina feta, es demana confirmació.
+function canviaContext() {
+  if (esModificada(sel, curriculum, materiaId, curs)
+      && !confirm('Es perdrà la selecció actual (criteris desmarcats, nivells afegits i textos editats). Vols continuar?')) {
+    $('materia').value = materiaId;
+    $('curs').value = String(curs);
+    return;
+  }
+  reinicia();
+}
+
 function reinicia() {
   materiaId = $('materia').value;
-  sel = novaSeleccio(curriculum, materiaId, Number($('curs').value));
+  curs = Number($('curs').value);
+  sel = novaSeleccio(curriculum, materiaId, curs);
   actualitza(sel);
 }
 
@@ -68,9 +80,12 @@ function actualitza(nova, { repinta = true } = {}) {
   pintaPrevia();
 }
 
+// Repintar destrueix els elements: es recorda quin control tenia el focus (data-focus) i es restaura.
 function pintaBlocs() {
+  const focus = document.activeElement?.dataset?.focus;
   const contenidor = $('blocs');
   contenidor.replaceChildren(...sel.blocs.map(pintaBloc));
+  if (focus) contenidor.querySelector(`[data-focus="${CSS.escape(focus)}"]`)?.focus();
 }
 
 function titolBloc(m, bloc) {
@@ -88,8 +103,8 @@ function pintaBloc({ materiaId: mid, bloc }) {
     h('div', { class: 'bloc-cap' },
       h('h2', {}, titolBloc(m, bloc)),
       h('div', { class: 'bloc-accions' },
-        h('button', { type: 'button', class: 'petit', onclick: () => actualitza(marcaBloc(sel, mid, bloc, true)) }, 'Marca tot'),
-        h('button', { type: 'button', class: 'petit', onclick: () => actualitza(marcaBloc(sel, mid, bloc, false)) }, 'Desmarca tot'),
+        h('button', { type: 'button', class: 'petit', 'data-focus': `${mid}|${bloc}|marca`, onclick: () => actualitza(marcaBloc(sel, mid, bloc, true)) }, 'Marca tot'),
+        h('button', { type: 'button', class: 'petit', 'data-focus': `${mid}|${bloc}|desmarca`, onclick: () => actualitza(marcaBloc(sel, mid, bloc, false)) }, 'Desmarca tot'),
         nomes ? null : h('button', { type: 'button', class: 'petit', onclick: () => actualitza(treuBloc(sel, mid, bloc)) }, 'Treu'))),
     ...perCE.map(({ ce, criteris }) => h('div', { class: 'grup-ce' },
       h('p', { class: 'ce' }, h('strong', {}, `${ce.codi}. `), ce.text),
@@ -103,18 +118,24 @@ function pintaCriteri(cr) {
     : item.versio === 'simplificada' && simpl ? simpl.text : cr.text;
   const boto = (versio, etiqueta, deshabilitat = false) => h('button', {
     type: 'button', class: 'petit', 'aria-pressed': String(item.versio === versio), disabled: deshabilitat,
-    onclick: () => actualitza(posaVersio(sel, cr.id, versio, versio === 'lliure' ? (item.textLliure ?? text) : undefined)),
+    'data-focus': `${cr.id}|${versio}`,
+    onclick: () => {
+      // Es llegeix l'estat actual: el text lliure pot haver canviat sense repintar.
+      const actual = sel.items[cr.id];
+      actualitza(posaVersio(sel, cr.id, versio, versio === 'lliure' && actual.textLliure === undefined ? text : undefined));
+      if (versio === 'lliure') document.querySelector(`[data-focus="${CSS.escape(`${cr.id}|text`)}"]`)?.focus();
+    },
   }, etiqueta);
   const id = `cr-${cr.id}`;
   return h('div', { class: item.marcat ? 'criteri' : 'criteri desmarcat' },
-    h('input', { type: 'checkbox', id, checked: item.marcat, onchange: () => actualitza(commuta(sel, cr.id)) }),
+    h('input', { type: 'checkbox', id, 'data-focus': `${cr.id}|casella`, checked: item.marcat, onchange: () => actualitza(commuta(sel, cr.id)) }),
     h('div', { class: 'criteri-cos' },
       h('label', { for: id }, h('strong', {}, `${cr.codi} `),
         item.versio === 'lliure' ? null : text,
         item.versio === 'simplificada' && simpl?.estat === 'pendent'
           ? h('span', { class: 'pendent', title: 'Versió simplificada pendent de revisió per un departament' }, 'pendent revisar') : null),
       item.versio === 'lliure' ? h('textarea', {
-        rows: 3, 'aria-label': `Text propi per a ${cr.codi}`,
+        rows: 3, 'aria-label': `Text propi per a ${cr.codi}`, 'data-focus': `${cr.id}|text`,
         oninput: e => actualitza(posaVersio(sel, cr.id, 'lliure', e.target.value), { repinta: false }),
       }, item.textLliure ?? text) : null,
       h('div', { class: 'versions', role: 'group', 'aria-label': `Versió de ${cr.codi}` },
