@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eina PI</title>
+  <meta name="description" content="Tria competències específiques i criteris d'avaluació del currículum i copia'ls al Pla de suport individualitzat.">
+  <link rel="stylesheet" href="estil.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="capcalera">
+    <h1>Eina PI <span class="subtitol">Secció 5 · criteris</span></h1>
+    <div class="controls">
+      <label>Matèria
+        <select id="materia"></select>
+      </label>
+      <label>Curs de l'alumne
+        <select id="curs">
+          <option value="1">1r ESO</option>
+          <option value="2">2n ESO</option>
+          <option value="3" selected>3r ESO</option>
+          <option value="4">4t ESO</option>
+        </select>
+      </label>
+    </div>
+    <div class="versio-global" role="group" aria-label="Versió de tots els criteris">
+      <span>Tots:</span>
+      <button type="button" data-versio-global="oficial">Oficial</button>
+      <button type="button" data-versio-global="simplificada">Simplificada</button>
+    </div>
+  </header>
+
+  <main>
+    <p id="avis" class="avis" hidden></p>
+    <div id="blocs"></div>
+
+    <section class="afegeix">
+      <h2>Afegeix criteris d'un altre nivell</h2>
+      <div class="controls">
+        <label>Nivell
+          <select id="nou-bloc"></select>
+        </label>
+        <label id="camp-area" hidden>Àrea de primària
+          <select id="nova-area"></select>
+        </label>
+      </div>
+      <button type="button" id="afegeix">Afegeix</button>
+    </section>
+  </main>
+
+  <footer class="peu">
+    <div class="botons">
+      <button type="button" data-copia="ce">Copia CE</button>
+      <button type="button" data-copia="criteris">Copia criteris</button>
+      <button type="button" data-copia="etapa">Copia etapa i curs</button>
+    </div>
+    <p id="estat-copia" class="estat-copia" role="status" aria-live="polite"></p>
+    <details>
+      <summary>Mostra el text que es copiarà</summary>
+      <h3>Competències específiques</h3>
+      <pre id="previa-ce"></pre>
+      <h3>Criteris d'avaluació</h3>
+      <pre id="previa-criteris"></pre>
+      <h3>Etapa i curs</h3>
+      <pre id="previa-etapa"></pre>
+    </details>
+  </footer>
+</body>
+</html>

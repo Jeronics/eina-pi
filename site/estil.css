@@ -1,0 +1,116 @@
+:root {
+  --fons: #f7f7f5;
+  --superficie: #ffffff;
+  --text: #1d1d1b;
+  --suau: #5f5f5a;
+  --vora: #dcdcd6;
+  --accent: #1f5fa8;
+  --accent-text: #ffffff;
+  --accent-suau: #e6eef8;
+  --avis: #8a4b00;
+  --avis-fons: #fff3e0;
+  --ok: #1e6b3a;
+  --error: #a32020;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --fons: #161615;
+    --superficie: #222220;
+    --text: #ececea;
+    --suau: #a8a8a2;
+    --vora: #3a3a37;
+    --accent: #7fb0ec;
+    --accent-text: #0e1a29;
+    --accent-suau: #1c2a3b;
+    --avis: #ffc27a;
+    --avis-fons: #33240f;
+    --ok: #7ad19b;
+    --error: #ff8a8a;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fons);
+  color: var(--text);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+h1 { font-size: 1.15rem; margin: 0 0 .6rem; }
+h2 { font-size: .95rem; margin: 0; }
+h3 { font-size: .8rem; margin: .8rem 0 .2rem; color: var(--suau); text-transform: uppercase; letter-spacing: .03em; }
+.subtitol { font-weight: 400; color: var(--suau); font-size: .85rem; }
+
+.capcalera, main, .peu { padding: 12px 16px; max-width: 760px; margin: 0 auto; }
+
+.capcalera { border-bottom: 1px solid var(--vora); }
+
+.controls { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: .6rem; }
+.controls label { display: flex; flex-direction: column; font-size: .8rem; color: var(--suau); flex: 1 1 140px; min-width: 0; }
+
+select, textarea, button { font: inherit; color: inherit; }
+select, textarea {
+  background: var(--superficie);
+  border: 1px solid var(--vora);
+  border-radius: 6px;
+  padding: 6px 8px;
+  margin-top: 2px;
+  width: 100%;
+  max-width: 100%;
+}
+textarea { resize: vertical; margin: 4px 0; }
+
+button {
+  background: var(--superficie);
+  border: 1px solid var(--vora);
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+button:hover:not(:disabled) { border-color: var(--accent); }
+button:disabled { opacity: .45; cursor: not-allowed; }
+button:focus-visible, select:focus-visible, textarea:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+button[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+button.petit { padding: 2px 8px; font-size: .8rem; }
+
+.versio-global { display: flex; align-items: center; gap: 6px; font-size: .85rem; color: var(--suau); }
+
+.avis { background: var(--avis-fons); color: var(--avis); padding: 8px 10px; border-radius: 6px; }
+
+.bloc { background: var(--superficie); border: 1px solid var(--vora); border-radius: 8px; padding: 10px 12px; margin-bottom: 12px; }
+.bloc-cap { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 6px; margin-bottom: 6px; }
+.bloc-accions { display: flex; gap: 4px; flex-wrap: wrap; }
+
+.grup-ce { border-top: 1px solid var(--vora); padding-top: 8px; margin-top: 8px; }
+.ce { margin: 0 0 6px; font-size: .85rem; color: var(--suau); }
+
+.criteri { display: flex; gap: 8px; padding: 6px 0; }
+.criteri input[type="checkbox"] { margin-top: 4px; flex: none; width: 18px; height: 18px; }
+.criteri-cos { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.criteri label { cursor: pointer; }
+.criteri.desmarcat .criteri-cos label { color: var(--suau); text-decoration: line-through; text-decoration-color: var(--vora); }
+.versions { display: flex; gap: 4px; margin-top: 4px; flex-wrap: wrap; }
+.pendent { display: inline-block; margin-left: 6px; font-size: .7rem; padding: 0 6px; border-radius: 10px; background: var(--avis-fons); color: var(--avis); vertical-align: 1px; }
+
+.afegeix { border: 1px dashed var(--vora); border-radius: 8px; padding: 10px 12px; margin-bottom: 12px; }
+.afegeix h2 { margin-bottom: 8px; }
+
+.peu {
+  position: sticky;
+  bottom: 0;
+  background: var(--fons);
+  border-top: 1px solid var(--vora);
+}
+.botons { display: flex; gap: 6px; flex-wrap: wrap; }
+.botons button { flex: 1 1 100px; background: var(--accent); color: var(--accent-text); border-color: var(--accent); font-weight: 600; }
+.estat-copia { min-height: 1.2em; margin: 6px 0 0; font-size: .85rem; }
+.estat-copia.ok { color: var(--ok); }
+.estat-copia.buit, .estat-copia.error { color: var(--error); }
+details { font-size: .85rem; }
+summary { cursor: pointer; color: var(--suau); }
+details pre { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--superficie); border: 1px solid var(--vora); border-radius: 6px; padding: 8px; margin: 0; max-height: 30vh; overflow: auto; font: inherit; }
