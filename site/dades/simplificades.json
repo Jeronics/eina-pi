@@ -1,1 +1,1862 @@
-{}
+{
+ "eso.bio.ESO_1-3.1.1": {
+  "text": "Interpretar informació científica senzilla (gràfics, taules, esquemes) sobre biologia i geologia i treure'n conclusions.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.1.2": {
+  "text": "Explicar fenòmens de la vida diària amb models i lleis senzilles de la biologia i la geologia.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.1.3": {
+  "text": "Reconèixer conceptes científics en problemes reals i proposar alguna solució.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.2.1": {
+  "text": "Respondre preguntes de biologia i geologia buscant informació en fonts fiables i dient d'on s'ha tret.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.2.2": {
+  "text": "Distingir la informació científica dels rumors, les notícies falses i les pseudociències.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.1": {
+  "text": "Fer preguntes i hipòtesis sobre fenòmens quotidians que es puguin comprovar amb experiments a classe.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.2": {
+  "text": "Planificar una petita investigació seguint els passos del mètode científic.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.3": {
+  "text": "Fer experiments seguint unes instruccions, amb el material adequat, i interpretar-ne els resultats.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.4": {
+  "text": "Fer una tasca concreta dins d'un projecte científic en grup, respectant els companys.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.5": {
+  "text": "Presentar els resultats d'un experiment amb taules, gràfics o informes senzills.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.3.6": {
+  "text": "Valorar la feina dels homes i les dones que fan ciència i la seva contribució a la societat.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.4.1": {
+  "text": "Resoldre problemes senzills de biologia o geologia amb les dades donades i el raonament.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.4.2": {
+  "text": "Revisar si la solució d'un problema de biologia o geologia és correcta.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.1": {
+  "text": "Explicar per què és important protegir la biodiversitat i el medi ambient.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.2": {
+  "text": "Explicar per què cal tenir hàbits sostenibles a partir del que fem nosaltres i els altres.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.3": {
+  "text": "Explicar per què cal tenir hàbits saludables (alimentació, higiene, descans, activitat física, pantalles, consum de substàncies).",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.4": {
+  "text": "Reconèixer situacions en què la biologia i la geologia ajuden a cuidar el medi ambient i la salut.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.5": {
+  "text": "Participar, amb ajuda, en projectes científics per millorar l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.5.6": {
+  "text": "Explicar per què és important desplaçar-se de manera segura i sostenible.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.6.1": {
+  "text": "Identificar els elements d'un paisatge.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.6.2": {
+  "text": "Reconèixer com canvien els paisatges amb el temps.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_1-3.6.3": {
+  "text": "Relacionar les activitats humanes amb els canvis que pateixen els paisatges.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.1.1": {
+  "text": "Interpretar informació científica sobre biologia i geologia, treure'n conclusions i defensar una opinió pròpia.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.1.2": {
+  "text": "Explicar i predir fenòmens de la vida diària amb models i lleis de la biologia i la geologia.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.1.3": {
+  "text": "Reconèixer conceptes científics en problemes reals, proposar solucions i explicar per què funcionen.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.2.1": {
+  "text": "Respondre preguntes de biologia i geologia buscant i analitzant informació fiable, citant-ne les fonts i sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.2.2": {
+  "text": "Comprovar si una informació és fiable (qui l'ha escrit, amb quina finalitat, si es pot contrastar) i desconfiar de la que no és científica.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.1": {
+  "text": "Fer preguntes i hipòtesis que es puguin comprovar amb experiments i distingir-les de les que no són científiques.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.2": {
+  "text": "Planificar una petita investigació seguint els passos del mètode científic.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.3": {
+  "text": "Fer experiments amb el material adequat, interpretar-ne els resultats i treure'n conclusions.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.4": {
+  "text": "Col·laborar amb els companys en les diferents fases d'un projecte científic, respectant la diversitat.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.5": {
+  "text": "Presentar de manera clara els resultats i les conclusions d'un experiment.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.3.6": {
+  "text": "Valorar la feina dels homes i les dones que fan ciència i explicar com influeix en la societat.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.4.1": {
+  "text": "Resoldre problemes senzills de biologia o geologia amb les dades donades i el raonament.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.4.2": {
+  "text": "Revisar si la solució d'un problema és correcta i canviar-la si no funciona o si hi ha dades noves.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.1": {
+  "text": "Explicar per què és important protegir la biodiversitat i el medi ambient i quins riscos naturals provoquen algunes accions humanes.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.2": {
+  "text": "Defensar la necessitat de tenir hàbits sostenibles (consum, residus, transport).",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.3": {
+  "text": "Defensar la necessitat de tenir hàbits saludables (alimentació, higiene, descans, activitat física, pantalles, consum de substàncies).",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.4": {
+  "text": "Explicar amb arguments com la biologia i la geologia poden ajudar a cuidar el medi ambient i la salut.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.5": {
+  "text": "Participar de manera autònoma en projectes científics per millorar l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.5.6": {
+  "text": "Tenir actituds responsables per desplaçar-se de manera segura i sostenible.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.6.1": {
+  "text": "Explicar com es relacionen entre ells els elements d'un paisatge.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.6.2": {
+  "text": "Relacionar com és un paisatge amb els canvis biològics, geològics i ambientals que ha tingut.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.6.3": {
+  "text": "Identificar activitats humanes que perjudiquen el paisatge i proposar maneres de reduir-ne l'impacte.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.6.4": {
+  "text": "Identificar els principals riscos geològics i proposar maneres de prevenir-los.",
+  "estat": "pendent"
+ },
+ "eso.bio.ESO_4.6.5": {
+  "text": "Explicar la història d'un paisatge a partir dels seus elements i d'alguns principis geològics bàsics.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.1.1": {
+  "text": "Reconèixer el català, el castellà i les altres llengües de l'entorn i de l'alumnat, i alguns dels seus trets.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.1.2": {
+  "text": "Identificar prejudicis sobre les llengües i respectar la diversitat lingüística.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.2.1": {
+  "text": "Entendre la idea principal i la informació important de textos orals i audiovisuals senzills.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.2.2": {
+  "text": "Valorar si un text oral o audiovisual senzill és clar i fiable.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.3.1": {
+  "text": "Fer narracions i exposicions orals senzilles, preparades, amb ordre i claredat.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.3.2": {
+  "text": "Participar en converses i treballs en grup escoltant els altres i respectant els torns.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.4.1": {
+  "text": "Entendre la idea principal i la informació important de textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.4.2": {
+  "text": "Valorar si un text escrit senzill és clar i fiable.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.5.1": {
+  "text": "Planificar, escriure i revisar textos senzills, amb ajuda dels companys i del diccionari.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.5.2": {
+  "text": "Escriure amb un vocabulari adequat i amb correcció ortogràfica i gramatical.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.6.2": {
+  "text": "Fer un petit treball de recerca, sol o en grup, i presentar-lo sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.7.1": {
+  "text": "Triar i llegir llibres segons els propis gustos i interessos.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.8.1": {
+  "text": "Explicar, amb ajuda de pautes, de què tracta una obra llegida i com està feta.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.8.2": {
+  "text": "Relacionar, amb ajuda, les obres llegides amb altres textos, pel·lícules o obres d'art.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.8.3": {
+  "text": "Escriure textos creatius senzills (contes, poemes) a partir de models de lectures.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.9.1": {
+  "text": "Revisar i millorar els propis textos amb ajuda, aplicant el que se sap de la llengua.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.9.2": {
+  "text": "Explicar com les paraules que tria qui parla o escriu canvien el missatge.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_1-2.9.3": {
+  "text": "Descobrir regles bàsiques de la llengua comparant frases, amb ajuda del diccionari i la gramàtica.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.1.1": {
+  "text": "Reconèixer i valorar el català, el castellà i les seves varietats, i saber-ne una mica la història.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.1.2": {
+  "text": "Identificar i qüestionar prejudicis sobre les llengües i conèixer els drets lingüístics.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.2.1": {
+  "text": "Entendre la idea principal i la informació important de textos orals i audiovisuals.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.2.2": {
+  "text": "Valorar si un text oral o audiovisual és clar, fiable i adequat.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.3.1": {
+  "text": "Fer exposicions orals preparades, amb ordre, claredat i el registre adequat.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.3.2": {
+  "text": "Participar en converses i treballs en grup escoltant els altres i respectant els torns.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.4.1": {
+  "text": "Entendre la idea principal, la informació important i la intenció de textos escrits.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.4.2": {
+  "text": "Valorar si un text escrit és clar, fiable i adequat.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.5.1": {
+  "text": "Planificar, escriure i revisar textos, amb ajuda dels companys i d'eines de consulta.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.5.2": {
+  "text": "Millorar els propis textos amb un vocabulari adequat i amb correcció ortogràfica i gramatical.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, de manera autònoma, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.6.2": {
+  "text": "Fer un treball de recerca, sol o en grup, organitzar la informació i presentar-la sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.7.1": {
+  "text": "Llegir de manera autònoma llibres triats i explicar per què s'han triat.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida i altres lectures.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.8.1": {
+  "text": "Explicar de què tracta una obra llegida, com està feta i en quina època es va escriure.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.8.2": {
+  "text": "Relacionar les obres llegides amb altres textos, pel·lícules o obres d'art.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.8.3": {
+  "text": "Escriure textos creatius (contes, poemes) a partir de models de lectures.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.9.1": {
+  "text": "Revisar i millorar els propis textos de manera cada vegada més autònoma.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.9.2": {
+  "text": "Explicar com les paraules que tria qui parla o escriu canvien el missatge i l'efecte en qui el rep.",
+  "estat": "pendent"
+ },
+ "eso.cas.ESO_3-4.9.3": {
+  "text": "Descobrir regles de la llengua comparant frases i consultar diccionaris i gramàtiques.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.1.1": {
+  "text": "Reconèixer el català, el castellà i les altres llengües de l'entorn i de l'alumnat, i alguns dels seus trets.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.1.2": {
+  "text": "Identificar prejudicis sobre les llengües i respectar la diversitat lingüística.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.2.1": {
+  "text": "Entendre la idea principal i la informació important de textos orals i audiovisuals senzills.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.2.2": {
+  "text": "Valorar si un text oral o audiovisual senzill és clar i fiable.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.3.1": {
+  "text": "Fer narracions i exposicions orals senzilles, preparades, amb ordre i claredat.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.3.2": {
+  "text": "Participar en converses i treballs en grup escoltant els altres i respectant els torns.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.4.1": {
+  "text": "Entendre la idea principal i la informació important de textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.4.2": {
+  "text": "Valorar si un text escrit senzill és clar i fiable.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.5.1": {
+  "text": "Planificar, escriure i revisar textos senzills, amb ajuda dels companys i del diccionari.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.5.2": {
+  "text": "Escriure amb un vocabulari adequat i amb correcció ortogràfica i gramatical.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.6.2": {
+  "text": "Fer un petit treball de recerca, sol o en grup, i presentar-lo sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.7.1": {
+  "text": "Triar i llegir llibres segons els propis gustos i interessos.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.8.1": {
+  "text": "Explicar, amb ajuda de pautes, de què tracta una obra llegida i com està feta.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.8.2": {
+  "text": "Relacionar, amb ajuda, les obres llegides amb altres textos, pel·lícules o obres d'art.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.8.3": {
+  "text": "Escriure textos creatius senzills (contes, poemes) a partir de models de lectures.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.9.1": {
+  "text": "Revisar i millorar els propis textos amb ajuda, aplicant el que se sap de la llengua.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.9.2": {
+  "text": "Explicar com les paraules que tria qui parla o escriu canvien el missatge.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_1-2.9.3": {
+  "text": "Descobrir regles bàsiques de la llengua comparant frases, amb ajuda del diccionari i la gramàtica.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.1.1": {
+  "text": "Reconèixer i valorar el català, el castellà i les seves varietats, i saber-ne una mica la història.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.1.2": {
+  "text": "Identificar i qüestionar prejudicis sobre les llengües i conèixer els drets lingüístics.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.2.1": {
+  "text": "Entendre la idea principal i la informació important de textos orals i audiovisuals.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.2.2": {
+  "text": "Valorar si un text oral o audiovisual és clar, fiable i adequat.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.3.1": {
+  "text": "Fer exposicions orals preparades, amb ordre, claredat i el registre adequat.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.3.2": {
+  "text": "Participar en converses i treballs en grup escoltant els altres i respectant els torns.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.4.1": {
+  "text": "Entendre la idea principal, la informació important i la intenció de textos escrits.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.4.2": {
+  "text": "Valorar si un text escrit és clar, fiable i adequat.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.5.1": {
+  "text": "Planificar, escriure i revisar textos, amb ajuda dels companys i d'eines de consulta.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.5.2": {
+  "text": "Millorar els propis textos amb un vocabulari adequat i amb correcció ortogràfica i gramatical.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, de manera autònoma, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.6.2": {
+  "text": "Fer un treball de recerca, sol o en grup, organitzar la informació i presentar-la sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.7.1": {
+  "text": "Llegir de manera autònoma llibres triats i explicar per què s'han triat.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida i altres lectures.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.8.1": {
+  "text": "Explicar de què tracta una obra llegida, com està feta i en quina època es va escriure.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.8.2": {
+  "text": "Relacionar les obres llegides amb altres textos, pel·lícules o obres d'art.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.8.3": {
+  "text": "Escriure textos creatius (contes, poemes) a partir de models de lectures.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.9.1": {
+  "text": "Revisar i millorar els propis textos de manera cada vegada més autònoma.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.9.2": {
+  "text": "Explicar com les paraules que tria qui parla o escriu canvien el missatge i l'efecte en qui el rep.",
+  "estat": "pendent"
+ },
+ "eso.cat.ESO_3-4.9.3": {
+  "text": "Descobrir regles de la llengua comparant frases i consultar diccionaris i gramàtiques.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.1.1": {
+  "text": "Buscar i ordenar informació per respondre preguntes sobre el present i el passat.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.1.2": {
+  "text": "Comparar informació de diferents fonts, en paper i digitals, i fer-la servir.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.1.3": {
+  "text": "Explicar el que s'ha après amb diferents formats (oral, escrit, digital).",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.1.4": {
+  "text": "Fer servir el vocabulari de geografia i història quan es parla o s'escriu.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.2.1": {
+  "text": "Identificar problemes importants de la societat i rebutjar les situacions injustes.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.2.2": {
+  "text": "Donar la pròpia opinió sobre problemes socials i valorar el diàleg per resoldre'ls.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.2.3": {
+  "text": "Reflexionar sobre els problemes socials i pensar com millorar el futur.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.2.4": {
+  "text": "Defensar les opinions pròpies respectant els drets humans i la convivència en pau.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.2.5": {
+  "text": "Expressar una opinió pròpia ben argumentada, respectant la dels altres.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.3.1": {
+  "text": "Reconèixer què canvia i què es manté entre les etapes de la història i relacionar-ho amb el present.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.3.2": {
+  "text": "Distingir les causes i les conseqüències de fets històrics i relacionar-les amb problemes d'avui.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.3.3": {
+  "text": "Representar informació de geografia i història amb mapes, gràfics i imatges.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.3.4": {
+  "text": "Situar fets històrics en una línia del temps.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.3.5": {
+  "text": "Fer servir fonts històriques (documents, objectes, imatges) per conèixer com es vivia.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.4.1": {
+  "text": "Identificar els elements d'un paisatge i com es relacionen.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.4.2": {
+  "text": "Explicar com les persones transformen el paisatge i per què cal protegir-lo.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.4.3": {
+  "text": "Denunciar situacions d'injustícia i de degradació del medi ambient i proposar millores.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.5.1": {
+  "text": "Explicar com s'organitzaven algunes societats del passat.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.5.2": {
+  "text": "Reconèixer les característiques de la democràcia i valorar els drets humans i les llibertats.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.5.3": {
+  "text": "Descriure com era la societat, la política i l'economia d'algunes societats del passat.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.5.4": {
+  "text": "Mostrar actituds pacífiques i respectuoses i complir les normes de convivència.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.6.1": {
+  "text": "Explicar com vivien algunes civilitzacions antigues i què han aportat a la cultura.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.6.2": {
+  "text": "Reconèixer les desigualtats socials en diferents èpoques de la història.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.6.3": {
+  "text": "Identificar grups de persones que han estat oblidats al llarg de la història i valorar les seves aportacions.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.6.4": {
+  "text": "Explicar què són els drets humans i com els protegeix l'estat de dret.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.7.1": {
+  "text": "Explicar com eren algunes cultures antigues i el seu art, i què han aportat a la cultura.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.7.2": {
+  "text": "Reflexionar sobre les cultures de l'entorn i respectar els sentiments de pertinença de les persones.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.7.3": {
+  "text": "Reconèixer elements bàsics de la història i la cultura d'Europa.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.7.4": {
+  "text": "Valorar i protegir el patrimoni artístic, històric i cultural.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.8.1": {
+  "text": "Comparar com es vivia i es treballava a casa abans i ara, i assumir responsabilitats a casa i a l'escola.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.8.2": {
+  "text": "Reconèixer la importància de repartir les tasques de casa i de cura entre homes i dones.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.8.3": {
+  "text": "Reconèixer els obstacles que han tingut les persones al llarg de la història i valorar la relació entre generacions.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.8.4": {
+  "text": "Entendre per què les dones han tingut un paper secundari a la història i valorar les seves aportacions.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.8.5": {
+  "text": "Rebutjar la violència i la discriminació cap a qualsevol persona, també per la seva identitat de gènere o orientació sexual.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.9.1": {
+  "text": "Explicar com es relacionen les economies dels països i les desigualtats que generen.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.9.2": {
+  "text": "Explicar per què les persones migren o busquen refugi.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.9.3": {
+  "text": "Explicar les causes d'alguns conflictes violents i com es poden prevenir.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_1-2.9.4": {
+  "text": "Reconèixer exemples de resolució pacífica de conflictes.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.1.1": {
+  "text": "Fer treballs propis amb dades, gràfics o mapes a partir de fonts diverses.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.1.2": {
+  "text": "Relacionar informacions i fer resums o informes que expliquin el que s'ha après.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.1.3": {
+  "text": "Aplicar el que s'ha après a situacions d'avui i proposar solucions.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.1.4": {
+  "text": "Comprovar si una font és fiable i distingir els fets de les opinions.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.2.1": {
+  "text": "Fer treballs originals fent servir el que se sap de geografia i història.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.2.2": {
+  "text": "Explicar problemes del passat i del present, del món proper i del món global.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.2.3": {
+  "text": "Entendre la pròpia identitat i valorar la diversitat com una riquesa.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.2.4": {
+  "text": "Presentar treballs propis amb arguments, respectant les opinions diferents.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.3.1": {
+  "text": "Reconèixer els grans canvis del món actual (feina, economia, relacions socials).",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.3.2": {
+  "text": "Fer propostes per cuidar el planeta i la societat, amb ajuda de gràfics i mapes.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.3.3": {
+  "text": "Reflexionar sobre els reptes del món i com afrontar-los de manera justa i sostenible.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.4.1": {
+  "text": "Estudiar casos concrets i proposar maneres sostenibles i justes d'usar el territori.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.4.2": {
+  "text": "Participar en accions per protegir i millorar l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.4.3": {
+  "text": "Comparar maneres d'organitzar la política i l'economia i com afecten les persones.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.5.1": {
+  "text": "Practicar els valors democràtics a l'escola i rebutjar les situacions injustes.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.5.2": {
+  "text": "Conèixer els fets més importants de la lluita per la democràcia a l'Estat espanyol al segle XX.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.5.3": {
+  "text": "Explicar què fan alguns moviments socials per reduir les desigualtats i resoldre conflictes en pau.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.5.4": {
+  "text": "Reconèixer els reptes de la democràcia actual per a una ciutadania activa.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.6.1": {
+  "text": "Conèixer els fets més importants en la defensa dels drets humans als segles XX i XXI.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.6.2": {
+  "text": "Conèixer les aportacions dels pobles originaris i els problemes que tenen avui.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.6.3": {
+  "text": "Explicar com l'Estat garanteix els serveis públics i redueix les desigualtats.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.6.4": {
+  "text": "Formar-se una opinió sobre problemes de l'entorn i participar en projectes socials.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.7.1": {
+  "text": "Explicar com s'han format les societats europees actuals.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.7.2": {
+  "text": "Analitzar obres d'art i relacionar-les amb l'autor i la seva època.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.7.3": {
+  "text": "Valorar la importància de les imatges i crear productes audiovisuals senzills.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.7.4": {
+  "text": "Donar una opinió argumentada sobre situacions de desigualtat i discriminació.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.7.5": {
+  "text": "Participar en accions col·lectives de solidaritat i de protecció del patrimoni.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.8.1": {
+  "text": "Conèixer els moviments que lluiten contra la discriminació per raó de gènere o d'orientació sexual.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.8.2": {
+  "text": "Reconèixer les aportacions de les dones a la convivència i a la societat.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.8.3": {
+  "text": "Defensar la igualtat entre homes i dones a la feina i el repartiment just de les tasques de cura.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.8.4": {
+  "text": "Participar activament en la millora de l'entorn, superant estereotips i prejudicis.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.9.1": {
+  "text": "Conèixer què fan les institucions i les organitzacions per la pau i la cooperació.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.9.2": {
+  "text": "Relacionar el passat amb el present i comprometre's a millorar l'entorn proper.",
+  "estat": "pendent"
+ },
+ "eso.cs.ESO_3-4.9.3": {
+  "text": "Resoldre els conflictes de l'escola i de l'entorn de manera pacífica.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.1.1": {
+  "text": "Fer activitats i exercicis per tenir una vida activa i saludable.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.1.2": {
+  "text": "Reconèixer les parts d'un pla per millorar la condició física.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.1.3": {
+  "text": "Tenir hàbits saludables: menjar bé, beure aigua, descansar, tenir bona postura i higiene.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.1.4": {
+  "text": "Saber què fer per prevenir accidents i aplicar primers auxilis bàsics.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.1.5": {
+  "text": "Fer servir aplicacions digitals per fer activitat física i hàbits saludables.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.2.1": {
+  "text": "Fer habilitats i tècniques en jocs i reptes.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.2.2": {
+  "text": "Resoldre situacions de joc i d'esport aplicant tècniques i estratègies senzilles.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.3.1": {
+  "text": "Expressar emocions i missatges amb el cos.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.3.2": {
+  "text": "Fer coreografies o representacions, sol o en grup, amb música o sense.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.3.3": {
+  "text": "Participar en danses i jocs tradicionals i valorar-ne l'origen cultural.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.4.1": {
+  "text": "Fer activitat física a la natura i a la ciutat cuidant l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.4.2": {
+  "text": "Complir les normes de seguretat i fer servir el material adequat en activitats a la natura i a la ciutat.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.4.3": {
+  "text": "Aprofitar l'entorn per fer activitat física en el temps lliure.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.5.1": {
+  "text": "Jugar amb esportivitat, valorant més el joc que el resultat.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.5.2": {
+  "text": "Reconèixer les pròpies emocions quan es fa activitat física.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.5.3": {
+  "text": "Respectar i escoltar els companys, sigui quin sigui el seu nivell.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_1-2.5.4": {
+  "text": "Reconèixer estereotips i actituds discriminatòries en l'esport.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.1.1": {
+  "text": "Planificar la pròpia activitat física per tenir una vida activa i saludable.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.1.2": {
+  "text": "Preparar un pla senzill per millorar la pròpia condició física.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.1.3": {
+  "text": "Aplicar hàbits saludables: menjar bé, beure aigua, descansar, tenir bona postura i higiene.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.1.4": {
+  "text": "Saber què fer per prevenir accidents i aplicar primers auxilis.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.1.5": {
+  "text": "Fer servir recursos digitals per planificar l'activitat física i els hàbits saludables.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.2.1": {
+  "text": "Fer habilitats i tècniques en jocs, reptes i partits.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.2.2": {
+  "text": "Resoldre situacions de joc i d'esport aplicant tècniques i estratègies.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.2.3": {
+  "text": "Organitzar, amb el grup, una activitat o competició esportiva.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.3.1": {
+  "text": "Representar petites obres expressives amb el cos.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.3.2": {
+  "text": "Crear coreografies, sol o en grup, amb música o sense.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.3.3": {
+  "text": "Crear petites representacions amb tècniques de circ.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.4.1": {
+  "text": "Fer activitat física a la natura i a la ciutat i participar en accions per cuidar-les.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.4.2": {
+  "text": "Organitzar activitats a la natura i a la ciutat amb seguretat i el material adequat.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.4.3": {
+  "text": "Organitzar la pròpia activitat física aprofitant la natura i la ciutat.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.5.1": {
+  "text": "Jugar amb esportivitat, valorant més el joc que el resultat.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.5.2": {
+  "text": "Controlar les pròpies emocions quan es fa activitat física.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.5.3": {
+  "text": "Resoldre conflictes en el joc parlant i respectant els altres.",
+  "estat": "pendent"
+ },
+ "eso.ef.ESO_3-4.5.4": {
+  "text": "Rebutjar els estereotips i la discriminació en l'esport.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.1.1": {
+  "text": "Descriure obres d'art, imatges i audiovisuals, i explicar per a què serveixen, buscant informació amb ajuda.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.1.2": {
+  "text": "Valorar la importància de conservar el patrimoni artístic de diferents cultures.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.1.3": {
+  "text": "Observar les imatges, el disseny i l'art de l'entorn i reconèixer les professions relacionades.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.1.4": {
+  "text": "Triar obres d'art actuals que agradin i fer-les servir d'inspiració.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.2.1": {
+  "text": "Descriure obres d'art i disseny amb respecte i amb el vocabulari adequat.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.2.2": {
+  "text": "Relacionar com és una obra d'art amb la seva època i la seva finalitat.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.2.3": {
+  "text": "Opinar sobre les obres pròpies i dels companys i proposar millores.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.2.4": {
+  "text": "Compartir emocions i opinions sobre l'art.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.3.1": {
+  "text": "Expressar idees i emocions de manera creativa amb dibuixos i imatges.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.3.2": {
+  "text": "Fer servir tècniques i recursos visuals adequats per expressar idees i emocions.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.3.3": {
+  "text": "Explicar una idea amb esbossos, esquemes o dibuixos, en paper o en digital.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.4.1": {
+  "text": "Aplicar el que s'ha après en altres matèries a les creacions artístiques.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.4.2": {
+  "text": "Fer servir tècniques de diferents arts en les pròpies creacions.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.5.1": {
+  "text": "Reconèixer les característiques de diferents llenguatges artístics (dibuix, foto, vídeo...).",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.5.2": {
+  "text": "Experimentar, amb ajuda, amb tècniques i materials artístics, també digitals.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.5.3": {
+  "text": "Aplicar la tècnica adequada segons el que es vol expressar.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.6.1": {
+  "text": "Fer un projecte artístic seguint unes pautes i buscant la informació necessària.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.6.2": {
+  "text": "Organitzar un projecte artístic, sol o en grup, seguint uns passos.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.6.3": {
+  "text": "Compartir idees amb altres matèries en projectes artístics en grup.",
+  "estat": "pendent"
+ },
+ "eso.epva.ESO_1-3.6.4": {
+  "text": "Donar opinions amb respecte i arribar a acords en un projecte de grup.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.1.1": {
+  "text": "Mostrar interès per la cultura dels països on es parla la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.1.2": {
+  "text": "Respectar les altres llengües i cultures i rebutjar els prejudicis i la discriminació.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.1.3": {
+  "text": "Explicar, amb ajuda, la diversitat de llengües i cultures i valorar-la.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.2.1": {
+  "text": "Entendre la idea principal i informació concreta de textos orals breus i senzills sobre temes quotidians.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.2.2": {
+  "text": "Fer servir, amb ajuda, estratègies per entendre textos senzills (imatges, gestos, paraules clau).",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.3.1": {
+  "text": "Parlar de manera breu i senzilla sobre temes quotidians (descriure, explicar, informar), amb ajuda.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.3.2": {
+  "text": "Preparar i revisar textos senzills, amb ajuda i amb el diccionari o eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.3.3": {
+  "text": "Participar en converses breus i senzilles sobre temes quotidians, amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.3.4": {
+  "text": "Fer servir, amb ajuda, expressions per començar i acabar una conversa, demanar la paraula i demanar aclariments.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.4.1": {
+  "text": "Entendre la idea principal i la informació important de textos escrits senzills.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.4.2": {
+  "text": "Valorar si un text senzill és clar i fiable.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.5.1": {
+  "text": "Escriure textos breus i senzills sobre temes quotidians seguint un model.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.5.2": {
+  "text": "Preparar, escriure i revisar textos senzills, amb ajuda i amb el diccionari o eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.6.2": {
+  "text": "Fer un petit treball de recerca, sol o en grup, i presentar-lo sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.7.1": {
+  "text": "Triar i llegir textos segons els propis gustos i interessos.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.8.1": {
+  "text": "Explicar missatges senzills a altres persones per ajudar a entendre's, amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.8.2": {
+  "text": "Fer servir, amb ajuda, estratègies per facilitar la comunicació entre persones (gestos, imatges, paraules clau).",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.9.1": {
+  "text": "Comparar la llengua estrangera amb altres llengües que es coneixen.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.9.2": {
+  "text": "Fer servir estratègies per aprendre millor la llengua estrangera, amb ajuda de companys i recursos.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_1-2.9.3": {
+  "text": "Reconèixer, amb ajuda, què s'ha après i què costa, i buscar maneres de millorar.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.1.1": {
+  "text": "Valorar la diversitat de llengües i cultures dels països on es parla la llengua estrangera.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.1.2": {
+  "text": "Respectar les altres llengües i cultures, rebutjar la discriminació i ajudar a resoldre malentesos.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.1.3": {
+  "text": "Defensar i valorar la diversitat de llengües i cultures.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.10.1": {
+  "text": "Identificar i rebutjar els usos de la llengua que discriminen o manipulen.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.10.2": {
+  "text": "Resoldre els conflictes parlant i buscant acords.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.2.1": {
+  "text": "Entendre la idea principal i informació concreta de textos orals sobre temes quotidians.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.2.2": {
+  "text": "Entendre i valorar textos una mica més llargs, també literaris adaptats.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.2.3": {
+  "text": "Fer servir estratègies per entendre textos (deduir significats, imatges, gestos) i buscar informació fiable.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.3.1": {
+  "text": "Parlar de manera senzilla i ordenada sobre temes quotidians (descriure, explicar, opinar).",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.3.2": {
+  "text": "Preparar, escriure i revisar textos senzills, sol o en grup, amb el diccionari o eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.3.3": {
+  "text": "Participar activament en converses sobre temes quotidians, amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.3.4": {
+  "text": "Fer servir expressions per mantenir una conversa: demanar la paraula, demanar aclariments, resumir.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.4.1": {
+  "text": "Entendre la idea principal, la informació important i la intenció de textos escrits.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.4.2": {
+  "text": "Valorar si un text és clar, fiable i adequat.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.5.1": {
+  "text": "Escriure textos senzills sobre temes quotidians, amb claredat i sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.5.2": {
+  "text": "Preparar, escriure i revisar textos, sol o en grup, pensant en qui els llegirà.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.6.1": {
+  "text": "Buscar informació en diferents fonts, també digitals, de manera autònoma, i triar la que és fiable.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.6.2": {
+  "text": "Fer un treball de recerca, sol o en grup, organitzar la informació i presentar-la sense copiar.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.6.3": {
+  "text": "Fer servir les tecnologies digitals de manera segura i responsable per buscar i compartir informació.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.7.1": {
+  "text": "Llegir de manera autònoma llibres triats i explicar per què s'han triat.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.7.2": {
+  "text": "Compartir l'experiència de lectura i relacionar-la amb la pròpia vida i altres lectures.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.8.1": {
+  "text": "Explicar missatges senzills a altres persones per ajudar a entendre's i resoldre malentesos.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.8.2": {
+  "text": "Fer servir estratègies per facilitar la comunicació i explicar missatges de manera més senzilla.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.9.1": {
+  "text": "Comparar la llengua estrangera amb altres llengües i explicar-ne les diferències.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.9.2": {
+  "text": "Fer servir estratègies per aprendre millor la llengua estrangera, amb ajuda de companys i recursos.",
+  "estat": "pendent"
+ },
+ "eso.est.ESO_3-4.9.3": {
+  "text": "Reflexionar sobre què s'ha après i què costa, i planificar com millorar.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.1.1": {
+  "text": "Interpretar informació científica senzilla (gràfics, taules, esquemes) i treure'n conclusions.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.1.2": {
+  "text": "Explicar fenòmens de la vida diària amb models i lleis senzilles de la física i la química.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.1.3": {
+  "text": "Reconèixer conceptes científics en problemes reals i proposar alguna solució.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.1": {
+  "text": "Fer preguntes i hipòtesis sobre fenòmens quotidians que es puguin comprovar amb experiments a classe.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.2": {
+  "text": "Planificar una petita investigació seguint els passos del mètode científic.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.3": {
+  "text": "Fer experiments seguint unes instruccions, amb el material adequat, i interpretar-ne els resultats.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.4": {
+  "text": "Fer una tasca concreta dins d'un projecte científic en grup, respectant els companys.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.5": {
+  "text": "Presentar els resultats d'un experiment amb taules, gràfics o informes senzills.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.2.6": {
+  "text": "Valorar la feina dels homes i les dones que fan ciència i la seva contribució a la societat.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.3.1": {
+  "text": "Fer servir dades de textos, taules i gràfics per explicar un procés físic o químic.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.3.2": {
+  "text": "Fer servir correctament les unitats de mesura, els càlculs i els noms i fórmules químiques bàsiques.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.3.3": {
+  "text": "Complir les normes de seguretat del laboratori i cuidar el material.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.4.1": {
+  "text": "Fer servir eines digitals i altres recursos per defensar una opinió sobre temes de medi ambient i societat.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.4.2": {
+  "text": "Defensar una opinió pròpia sobre temes de medi ambient i societat, sol o en equip, respectant els altres.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.4.3": {
+  "text": "Buscar informació fiable sobre física i química i citar d'on s'ha tret.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.5.1": {
+  "text": "Explicar per què és important cuidar l'aire, l'aigua i el sòl.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.5.2": {
+  "text": "Explicar per què cal tenir hàbits sostenibles a partir del que fem nosaltres i els altres.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.5.3": {
+  "text": "Reconèixer situacions en què la física i la química ajuden a cuidar el medi ambient i la salut.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.5.4": {
+  "text": "Participar, amb ajuda, en projectes científics per millorar l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.6.1": {
+  "text": "Entendre que la ciència avança amb el temps gràcies a homes i dones, i que afecta la societat i el medi ambient.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_1-3.6.2": {
+  "text": "Explicar com la ciència pot ajudar a trobar solucions sostenibles als problemes de l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.1.1": {
+  "text": "Interpretar informació científica en diferents formats, treure'n conclusions i defensar una opinió pròpia.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.1.2": {
+  "text": "Explicar i predir fenòmens de la vida diària amb models i lleis de la física i la química.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.1.3": {
+  "text": "Reconèixer conceptes científics en problemes reals, proposar solucions i explicar per què funcionen.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.1": {
+  "text": "Fer preguntes i hipòtesis que es puguin comprovar amb experiments i distingir-les de les que no són científiques.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.2": {
+  "text": "Planificar una petita investigació seguint els passos del mètode científic.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.3": {
+  "text": "Fer experiments amb el material adequat, interpretar-ne els resultats i treure'n conclusions.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.4": {
+  "text": "Col·laborar amb els companys en les diferents fases d'un projecte científic, respectant la diversitat.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.5": {
+  "text": "Presentar de manera clara els resultats i les conclusions d'un experiment.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.2.6": {
+  "text": "Valorar la feina dels homes i les dones que fan ciència i explicar com influeix en la societat.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.3.1": {
+  "text": "Fer servir dades de textos, taules i gràfics per explicar un procés físic o químic.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.3.2": {
+  "text": "Fer servir correctament les unitats de mesura, els càlculs necessaris i els noms i fórmules químiques.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.3.3": {
+  "text": "Complir amb rigor les normes de seguretat del laboratori i cuidar el material i l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.4.1": {
+  "text": "Fer servir eines digitals i altres recursos per defensar una opinió sobre temes de medi ambient i societat.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.4.2": {
+  "text": "Defensar una opinió pròpia sobre temes de medi ambient i societat, sol o en equip, respectant els altres.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.4.3": {
+  "text": "Buscar informació fiable sobre física i química, citar-ne les fonts i no copiar.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.5.1": {
+  "text": "Explicar per què és important tenir aire, aigua i sòl nets i quines accions humanes els posen en perill.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.5.2": {
+  "text": "Defensar la necessitat de tenir hàbits sostenibles (consum, residus, transport).",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.5.3": {
+  "text": "Explicar amb arguments com la ciència pot ajudar a cuidar el medi ambient i la salut.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.5.4": {
+  "text": "Participar de manera autònoma en projectes científics per millorar l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.6.1": {
+  "text": "Entendre que la ciència avança amb el temps i valorar com afecta la societat i el medi ambient.",
+  "estat": "pendent"
+ },
+ "eso.fiq.ESO_4.6.2": {
+  "text": "Argumentar com la ciència pot ajudar a trobar solucions sostenibles als problemes de l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.1.1": {
+  "text": "Entendre un problema: ordenar les dades i saber què es pregunta.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.1.2": {
+  "text": "Representar un problema amb material, dibuixos, gràfics o eines digitals per entendre'l i resoldre'l.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.1.3": {
+  "text": "Triar una estratègia adequada per resoldre un problema i explicar per què s'ha triat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.1.4": {
+  "text": "Trobar la solució d'un problema fent servir el que se sap i veure si té una, cap o diverses solucions.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.2.1": {
+  "text": "Explicar amb ordre per què una solució és correcta.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.2.2": {
+  "text": "Fer noves preguntes a partir d'un problema ja resolt.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.3.1": {
+  "text": "Fer preguntes sobre situacions properes que es puguin respondre amb les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.3.2": {
+  "text": "Proposar idees matemàtiques senzilles (conjectures), si cal amb eines digitals com GeoGebra o el full de càlcul.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.3.3": {
+  "text": "Inventar problemes senzills a partir d'una situació.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.4.1": {
+  "text": "Dividir un problema en parts petites i resoldre-les una a una, si cal amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.4.3": {
+  "text": "Trobar la regla d'un patró i descartar les dades que no serveixen.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.4.4": {
+  "text": "Escriure els passos per resoldre un problema i provar-los, si cal amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.5.1": {
+  "text": "Passar d'una representació a una altra del mateix concepte (per exemple, d'una taula a un gràfic).",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.5.2": {
+  "text": "Relacionar continguts matemàtics diferents a partir de situacions de la vida diària.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.6.1": {
+  "text": "Reconèixer i fer servir les matemàtiques en situacions de la vida diària: mesurar, classificar, predir.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.6.2": {
+  "text": "Fer servir les matemàtiques en altres matèries.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.6.3": {
+  "text": "Valorar com les matemàtiques, fetes per homes i dones, ajuden a la societat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.6.4": {
+  "text": "Proposar idees noves i creatives fent servir les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.7.1": {
+  "text": "Explicar oralment i per escrit com s'ha resolt un problema, amb el vocabulari matemàtic adequat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.7.2": {
+  "text": "Presentar resultats matemàtics de manera clara amb dibuixos, fotos, vídeos o altres formats.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.7.3": {
+  "text": "Parlar amb els companys sobre idees matemàtiques i explicar els raonaments.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.8.1": {
+  "text": "Mantenir la calma i la confiança davant d'un repte matemàtic i no rendir-se.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.8.2": {
+  "text": "Adonar-se del que s'està aprenent i de com s'aprèn.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.8.3": {
+  "text": "Trobar els propis errors i explicar per què s'han produït.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.8.4": {
+  "text": "Participar en la pròpia avaluació i buscar maneres de superar les dificultats.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.8.5": {
+  "text": "Valorar la bellesa i la creativitat de les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.9.1": {
+  "text": "Treballar en equip, presencialment o en línia, escoltant i respectant les idees dels altres.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.9.2": {
+  "text": "Col·laborar amb el grup, arribar a acords i complir-los.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.9.3": {
+  "text": "Respectar les necessitats dels altres i valorar les seves aportacions per aprendre junts.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_1-3.9.4": {
+  "text": "Ajudar els companys a trobar i corregir els seus errors amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.1.1": {
+  "text": "Entendre un problema: ordenar les dades i saber què es pregunta.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.1.2": {
+  "text": "Representar un problema amb material, dibuixos, gràfics o eines digitals per entendre'l i resoldre'l.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.1.3": {
+  "text": "Triar una estratègia adequada per resoldre un problema i explicar per què s'ha triat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.1.4": {
+  "text": "Trobar la solució d'un problema fent servir el que se sap i veure si té una, cap o diverses solucions.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.2.1": {
+  "text": "Explicar amb ordre per què una solució és correcta.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.2.2": {
+  "text": "Fer noves preguntes a partir d'un problema ja resolt.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.3.1": {
+  "text": "Fer preguntes sobre situacions properes que es puguin respondre amb les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.3.2": {
+  "text": "Proposar idees matemàtiques senzilles (conjectures), si cal amb eines digitals com GeoGebra o el full de càlcul.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.3.3": {
+  "text": "Inventar problemes senzills a partir d'una situació.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.4.1": {
+  "text": "Dividir un problema en parts petites i resoldre-les una a una, si cal amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.4.3": {
+  "text": "Trobar la regla d'un patró i descartar les dades que no serveixen.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.4.4": {
+  "text": "Escriure els passos per resoldre un problema i provar-los, si cal amb dispositius digitals.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.5.1": {
+  "text": "Passar d'una representació a una altra del mateix concepte (per exemple, d'una taula a un gràfic).",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.5.2": {
+  "text": "Relacionar continguts matemàtics diferents a partir de situacions de la vida diària.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.6.1": {
+  "text": "Reconèixer i fer servir les matemàtiques en situacions de la vida diària: mesurar, classificar, predir.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.6.2": {
+  "text": "Fer servir les matemàtiques en altres matèries.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.6.3": {
+  "text": "Valorar com les matemàtiques, fetes per homes i dones, ajuden a la societat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.6.4": {
+  "text": "Proposar idees noves i creatives fent servir les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.7.1": {
+  "text": "Explicar oralment i per escrit com s'ha resolt un problema, amb el vocabulari matemàtic adequat.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.7.2": {
+  "text": "Presentar resultats matemàtics de manera clara amb dibuixos, fotos, vídeos o altres formats.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.7.3": {
+  "text": "Parlar amb els companys sobre idees matemàtiques i explicar els raonaments.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.8.1": {
+  "text": "Mantenir la calma i la confiança davant d'un repte matemàtic i no rendir-se.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.8.2": {
+  "text": "Adonar-se del que s'està aprenent i de com s'aprèn.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.8.3": {
+  "text": "Trobar els propis errors i explicar per què s'han produït.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.8.4": {
+  "text": "Participar en la pròpia avaluació i buscar maneres de superar les dificultats.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.8.5": {
+  "text": "Valorar la bellesa i la creativitat de les matemàtiques.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.9.1": {
+  "text": "Treballar en equip, presencialment o en línia, escoltant i respectant les idees dels altres.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.9.2": {
+  "text": "Col·laborar amb el grup, arribar a acords i complir-los.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.9.3": {
+  "text": "Respectar les necessitats dels altres i valorar les seves aportacions per aprendre junts.",
+  "estat": "pendent"
+ },
+ "eso.mat.ESO_4.9.4": {
+  "text": "Ajudar els companys a trobar i corregir els seus errors amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.1.1": {
+  "text": "Reconèixer l'època i la cultura d'algunes obres musicals.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.1.2": {
+  "text": "Reconèixer característiques de músiques de la nostra cultura i d'altres, amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.1.3": {
+  "text": "Expressar l'opinió i les emocions que provoca una música, amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.2.1": {
+  "text": "Improvisar amb el cos, la veu o instruments, sol o en grup.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.2.2": {
+  "text": "Interpretar música sol o en grup.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.3.1": {
+  "text": "Fer servir tècniques d'interpretació musical i corporal per expressar emocions.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.3.2": {
+  "text": "Participar en actuacions musicals dins o fora del centre.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.3.3": {
+  "text": "Interpretar música i moviment en audicions i concerts, amb respecte cap als altres.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.4.1": {
+  "text": "Crear composicions senzilles amb la veu, instruments o moviment, sol o en grup.",
+  "estat": "pendent"
+ },
+ "eso.mus.ESO_1-3.4.2": {
+  "text": "Organitzar petites produccions musicals amb la veu, el cos, instruments o eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.1.1": {
+  "text": "Identificar un problema o una necessitat i buscar informació fiable per resoldre'l.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.1.2": {
+  "text": "Analitzar com són i com funcionen objectes tecnològics de la vida diària.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.2.1": {
+  "text": "Dissenyar una solució tecnològica a un problema i anotar el procés en una memòria.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.2.2": {
+  "text": "Planificar el temps, els materials i les eines per construir un projecte, sol o en grup.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.2.3": {
+  "text": "Tenir en compte el medi ambient en dissenyar un objecte (materials, reciclatge).",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.3.1": {
+  "text": "Construir objectes o maquetes amb les eines adequades i seguint les normes de seguretat.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.3.2": {
+  "text": "Comprovar si l'objecte construït funciona com s'havia previst.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.4.1": {
+  "text": "Explicar per escrit com s'ha fet un projecte, amb dibuixos i eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.4.2": {
+  "text": "Dibuixar objectes i esquemes tècnics senzills amb eines digitals.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.4.3": {
+  "text": "Fer servir eines digitals per comunicar-se i explicar el que s'ha après.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.5.1": {
+  "text": "Resoldre problemes senzills amb algorismes i diagrames de flux.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.5.2": {
+  "text": "Programar aplicacions senzilles per a l'ordinador o el mòbil.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.5.3": {
+  "text": "Programar robots o sistemes senzills perquè funcionin sols.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.6.1": {
+  "text": "Fer servir els dispositius digitals de manera segura i protegir les dades.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.6.2": {
+  "text": "Crear i compartir continguts digitals respectant els drets d'autor.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.6.3": {
+  "text": "Organitzar i desar la informació de manera ordenada i segura.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.7.1": {
+  "text": "Explicar com la tecnologia ha canviat la societat i el medi ambient.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.7.2": {
+  "text": "Fer un ús responsable de les tecnologies noves.",
+  "estat": "pendent"
+ },
+ "eso.tec.ESO_1-3.7.3": {
+  "text": "Valorar el reciclatge i la reutilització per reduir residus.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.1.1": {
+  "text": "Participar activament en les activitats per conèixer-se millor a un mateix.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.1.2": {
+  "text": "Tenir una imatge realista d'un mateix i proposar-se objectius possibles.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.1.3": {
+  "text": "Analitzar la informació de diferents fonts amb sentit crític.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.1.4": {
+  "text": "Resoldre dilemes morals senzills de manera responsable.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.1.5": {
+  "text": "Reconèixer els riscos de les xarxes socials i prevenir el ciberassetjament.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.1": {
+  "text": "Tenir actituds de convivència pacífica i respectuosa.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.2": {
+  "text": "Participar de manera respectuosa en activitats de grup i conèixer les associacions de l'entorn.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.3": {
+  "text": "Prendre decisions en grup de manera justa.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.4": {
+  "text": "Dialogar amb respecte sobre temes ètics d'actualitat.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.5": {
+  "text": "Rebutjar la violència contra les dones i defensar la igualtat de gènere.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.2.6": {
+  "text": "Conèixer què fan les institucions i les ONG per la pau i els drets humans.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.3.1": {
+  "text": "Entendre com les activitats humanes afecten el planeta i participar en accions de millora.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.3.2": {
+  "text": "Participar en accions per cuidar el planeta i la societat.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.3.3": {
+  "text": "Cuidar les persones, els animals i el planeta amb accions de la vida diària (consum, mobilitat, reciclatge).",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.4.1": {
+  "text": "Expressar les pròpies emocions amb respecte.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.4.2": {
+  "text": "Reconèixer i controlar les pròpies emocions i entendre les dels altres.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.4.3": {
+  "text": "Ser empàtic i respectuós amb un mateix, amb els altres i amb la natura.",
+  "estat": "pendent"
+ },
+ "eso.val.ESO_1-4.4.4": {
+  "text": "Reconèixer situacions d'assetjament i actuar per evitar-les.",
+  "estat": "pendent"
+ }
+}

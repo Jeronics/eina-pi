@@ -156,6 +156,7 @@ class Taula:
     def __init__(self, columnes):
         self.columnes = columnes          # [(centre, bloc)]
         self.linies = [[] for _ in columnes]
+        self.sagnada = None               # en taules d'una columna: si les cel·les van sagnades
 
     def fronteres(self):
         return [(a[0] + b[0]) / 2 for a, b in zip(self.columnes, self.columnes[1:])]
@@ -236,7 +237,9 @@ def extreu_seccio(pdf, primera, seguent, etapa):
             if estat == 'taula':
                 una_columna = len(taula.columnes) == 1
                 if una_columna:
-                    fi = salt > SALT_PARAGRAF
+                    if taula.sagnada is None:
+                        taula.sagnada = linia[0][0] >= marge + SAGNAT_TAULA
+                    fi = salt > SALT_PARAGRAF or (taula.sagnada and linia[0][0] < marge + SAGNAT_TAULA)
                 else:
                     fi = linia[0][0] < marge + SAGNAT_TAULA or taula.travessa(linia)
                 if fi:

@@ -90,6 +90,13 @@ class TestCurriculum(unittest.TestCase):
             for cr in m['criteris']:
                 self.assertNotRegex(cr['text'], r'^\d', cr['id'])
 
+    def test_cap_paragraf_explicatiu_enganxat(self):
+        self.assertTrue(self.criteri('eso.val', 'ESO_1-4', 'CE1.5').endswith('en diferents contextos.'))
+        for m in self.c['materies']:
+            for cr in m['criteris']:
+                self.assertNotIn('Aquesta competència', cr['text'], cr['id'])
+                self.assertLess(len(cr['text']), 600, cr['id'])
+
     def test_validador(self):
         r = subprocess.run(['node', 'tools/valida.mjs'], cwd=ARREL, capture_output=True, text=True)
         self.assertEqual(r.returncode, 0, r.stdout[-3000:])
