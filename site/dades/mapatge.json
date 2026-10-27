@@ -1,1 +1,14 @@
-{}
+{
+ "eso.bio": "pri.medi",
+ "eso.fiq": "pri.medi",
+ "eso.cs": "pri.medi",
+ "eso.tec": "pri.medi",
+ "eso.epva": "pri.art",
+ "eso.mus": "pri.art",
+ "eso.cat": "pri.cat",
+ "eso.cas": "pri.cas",
+ "eso.est": "pri.est",
+ "eso.mat": "pri.mat",
+ "eso.ef": "pri.ef",
+ "eso.val": "pri.val"
+}
