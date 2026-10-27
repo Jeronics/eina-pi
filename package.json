@@ -1,0 +1,9 @@
+{
+  "name": "eina-pi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "valida": "node tools/valida.mjs"
+  }
+}
