@@ -65,13 +65,15 @@ function canviaContext() {
   reinicia();
 }
 
-// Deixa la matèria i el curs triats i torna a la selecció per defecte (per al següent alumne).
+// Torna a l'estat inicial de la pàgina: matèria i curs per defecte i la seva selecció per defecte.
 function tornaAComencar() {
   if (esModificada(sel, curriculum, materiaId, curs)
       && !confirm('Es perdrà la selecció actual (criteris desmarcats, nivells afegits i textos editats). Vols tornar a començar?')) return;
   avisa('');
   $('estat-copia').textContent = '';
   $('estat-copia').className = 'estat-copia';
+  $('materia').selectedIndex = 0;
+  $('curs').value = $('curs').querySelector('option[selected]').value;
   reinicia();
   window.scrollTo(0, 0);
 }
