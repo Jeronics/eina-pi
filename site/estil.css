@@ -78,7 +78,8 @@ button:focus-visible, select:focus-visible, textarea:focus-visible, input:focus-
 button[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
 button.petit { padding: 2px 8px; font-size: .8rem; }
 
-.versio-global { display: flex; align-items: center; gap: 6px; font-size: .85rem; color: var(--suau); }
+.versio-global { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: .85rem; color: var(--suau); }
+.reinicia { margin-left: auto; }
 
 .avis { background: var(--avis-fons); color: var(--avis); padding: 8px 10px; border-radius: 6px; }
 

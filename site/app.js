@@ -44,6 +44,7 @@ function inicia() {
   $('curs').addEventListener('change', canviaContext);
   $('nou-bloc').addEventListener('change', mostraArea);
   $('afegeix').addEventListener('click', afegeix);
+  $('reinicia').addEventListener('click', tornaAComencar);
   for (const b of document.querySelectorAll('[data-versio-global]')) {
     b.addEventListener('click', () => actualitza(posaVersioTots(sel, b.dataset.versioGlobal)));
   }
@@ -62,6 +63,17 @@ function canviaContext() {
     return;
   }
   reinicia();
+}
+
+// Deixa la matèria i el curs triats i torna a la selecció per defecte (per al següent alumne).
+function tornaAComencar() {
+  if (esModificada(sel, curriculum, materiaId, curs)
+      && !confirm('Es perdrà la selecció actual (criteris desmarcats, nivells afegits i textos editats). Vols tornar a començar?')) return;
+  avisa('');
+  $('estat-copia').textContent = '';
+  $('estat-copia').className = 'estat-copia';
+  reinicia();
+  window.scrollTo(0, 0);
 }
 
 function reinicia() {
