@@ -114,4 +114,6 @@ button.petit { padding: 2px 8px; font-size: .8rem; }
 .estat-copia.buit, .estat-copia.error { color: var(--error); }
 details { font-size: .85rem; }
 summary { cursor: pointer; color: var(--suau); }
-details pre { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--superficie); border: 1px solid var(--vora); border-radius: 6px; padding: 8px; margin: 0; max-height: 30vh; overflow: auto; font: inherit; }
+details pre { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--superficie); border: 1px solid var(--vora); border-radius: 6px; padding: 8px; margin: 0; font: inherit; }
+/* Amb la previsualització oberta, el peu deixa de ser fix perquè la pàgina pugui desplaçar-se fins al final. */
+.peu:has(details[open]) { position: static; }
