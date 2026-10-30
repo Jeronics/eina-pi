@@ -2,6 +2,8 @@
 
 Eina per omplir la **secció 5 del Pla de suport individualitzat (PI)**: tries matèria i curs de l'alumne, marques o desmarques competències específiques i criteris d'avaluació del currículum (Decret 175/2022), i els copies cel·la a cel·la al PI de Google Docs.
 
+**Obre l'eina:** https://jeronics.github.io/eina-pi/
+
 ## Privacitat
 
 - L'eina **no rep ni desa cap dada de l'alumne**. No té camps per a noms ni diagnòstics.
